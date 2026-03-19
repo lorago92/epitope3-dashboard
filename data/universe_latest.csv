@@ -1,0 +1,428 @@
+ticker,company_name,exchange,gics_sub_industry,gics_name,market_cap,addv_usd,mcap_tier,in_xbi,in_ibb,source,universe_date
+ABBV,ABBVIE INC.,NYSE,35202010,Pharmaceuticals,368380313600.0,1572772232.5443623,large_cap,True,False,EDGAR,2026-03-19
+AMGN,Amgen Inc. Common Stock,NASDAQ,35201010,Biotechnology,189471506432.0,1030228106.8226186,large_cap,True,True,EDGAR,2026-03-19
+GILD,"Gilead Sciences, Inc. Common Stock",NASDAQ,35201010,Biotechnology,175400304640.0,1041435715.8650609,large_cap,True,True,EDGAR,2026-03-19
+VRTX,Vertex Pharmaceuticals Incorporated Common Stock,NASDAQ,35202010,Pharmaceuticals,114703859712.0,733252367.1864655,large_cap,True,True,EDGAR,2026-03-19
+REGN,"Regeneron Pharmaceuticals, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,78668226560.0,523487457.91648763,large_cap,True,True,EDGAR,2026-03-19
+ARGX,argenx SE American Depositary Shares,NASDAQ,35201010,Biotechnology,42375901184.0,280194162.58032227,large_cap,False,True,EDGAR,2026-03-19
+ALNY,"Alnylam Pharmaceuticals, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,41749766144.0,430275115.9312439,large_cap,True,True,EDGAR,2026-03-19
+ONC,BeOne Medicines Ltd. American Depositary Shares,NASDAQ,35202010,Pharmaceuticals,32613140480.0,87638359.16489868,large_cap,False,True,EDGAR,2026-03-19
+INSM,Insmed Incorporated Common Stock,NASDAQ,35202010,Pharmaceuticals,30759256064.0,335756739.698967,large_cap,True,True,EDGAR,2026-03-19
+NTRA,"Natera, Inc. Common Stock",NASDAQ,35203010,Life Science Tools & Services,28033021952.0,259904558.5447693,large_cap,True,True,ETF,2026-03-19
+BIIB,Biogen Inc. Common Stock,NASDAQ,35201010,Biotechnology,26755547136.0,227803125.07749838,large_cap,True,True,EDGAR,2026-03-19
+UTHR,United Therapeutics Corporation Common Stock,NASDAQ,35202010,Pharmaceuticals,23244013568.0,252321668.13253582,large_cap,True,True,EDGAR,2026-03-19
+BNTX,BioNTech SE American Depositary Share,NASDAQ,35201010,Biotechnology,22619281408.0,123173482.38154602,large_cap,False,True,EDGAR,2026-03-19
+MRNA,"Moderna, Inc. Common Stock",NASDAQ,35201010,Biotechnology,20694827008.0,494473021.7004059,large_cap,True,True,EDGAR,2026-03-19
+ROIV,Roivant Sciences Ltd. Common Shares,NASDAQ,35202010,Pharmaceuticals,19896489984.0,187565484.77333096,large_cap,True,True,EDGAR,2026-03-19
+EXAS,Exact Sciences Corporation Common Stock,NASDAQ,35203010,Life Science Tools & Services,19804651520.0,236471045.88731894,large_cap,True,False,ETF,2026-03-19
+RVMD,"Revolution Medicines, Inc. Common Stock",NASDAQ,35201010,Biotechnology,19442792448.0,212491326.66563517,large_cap,True,True,EDGAR,2026-03-19
+ILMN,"Illumina, Inc. Common Stock",NASDAQ,35203010,Life Science Tools & Services,18799054848.0,273803207.12358654,large_cap,False,True,ETF,2026-03-19
+INCY,Incyte Corp. Common Stock,NASDAQ,35201010,Biotechnology,18357094400.0,183252051.47423682,large_cap,True,True,ETF,2026-03-19
+GMAB,Genmab A/S ADS,NASDAQ,35202010,Pharmaceuticals,15894354944.0,47305626.69097773,large_cap,False,True,EDGAR,2026-03-19
+ASND,Ascendis Pharma A/S American Depositary Shares,NASDAQ,35202010,Pharmaceuticals,13961417728.0,175406548.41808572,large_cap,False,True,EDGAR,2026-03-19
+BBIO,"BridgeBio Pharma, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,13593664512.0,227296726.97690555,large_cap,True,True,EDGAR,2026-03-19
+NBIX,"Neurocrine Biosciences, Inc. Common Stock",NASDAQ,35201010,Biotechnology,13118509056.0,155091484.48001608,large_cap,True,True,EDGAR,2026-03-19
+MEDP,"Medpace Holdings, Inc. Common Stock",NASDAQ,35203010,Life Science Tools & Services,12907807744.0,202709041.2612427,large_cap,False,True,ETF,2026-03-19
+SMMT,Summit Therapeutics Inc. Common Stock,NASDAQ,35202010,Pharmaceuticals,12095813632.0,34566064.47007809,large_cap,True,True,EDGAR,2026-03-19
+IONS,"Ionis Pharmaceuticals, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,11839311872.0,184803865.20057932,large_cap,True,True,EDGAR,2026-03-19
+EXEL,"Exelixis, Inc. Common Stock",NASDAQ,35201010,Biotechnology,11062306816.0,129720965.92762998,large_cap,True,True,EDGAR,2026-03-19
+BMRN,BioMarin Pharmaceutical Inc. Common Stock,NASDAQ,35202010,Pharmaceuticals,10660484096.0,139453854.9352997,large_cap,True,True,EDGAR,2026-03-19
+MDGL,"Madrigal Pharmaceuticals, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,10139465728.0,163638543.92918295,large_cap,True,True,EDGAR,2026-03-19
+ABVX,Abivax SA American Depositary Shares,NASDAQ,35202010,Pharmaceuticals,9804214272.0,104763987.44241409,mid_cap,False,True,EDGAR,2026-03-19
+IBRX,"ImmunityBio, Inc. Common Stock",NASDAQ,35201010,Biotechnology,8800634880.0,295057725.5638798,mid_cap,True,True,EDGAR,2026-03-19
+TEM,"Tempus AI, Inc. Class A Common Stock",NASDAQ,,,8704491520.0,301966664.2348531,mid_cap,False,True,ETF,2026-03-19
+AXSM,"Axsome Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,8075569152.0,98982139.54951376,mid_cap,False,True,EDGAR,2026-03-19
+PRAX,"Praxis Precision Medicines, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,8043041792.0,128680631.89235942,mid_cap,True,True,EDGAR,2026-03-19
+TECH,Bio-Techne Corp Common Stock,NASDAQ,35201010,Biotechnology,7949392384.0,147792387.46245867,mid_cap,False,True,EDGAR,2026-03-19
+ARWR,"Arrowhead Pharmaceuticals, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,7941225472.0,202372377.81933442,mid_cap,True,True,EDGAR,2026-03-19
+PCVX,"Vaxcyte, Inc. Common Stock",NASDAQ,35201010,Biotechnology,7881795584.0,72700561.88551179,mid_cap,True,True,EDGAR,2026-03-19
+CRL,"Charles River Laboratories International, Inc.",NYSE,35203010,Life Science Tools & Services,7734179840.0,207049735.70373434,mid_cap,False,True,ETF,2026-03-19
+NUVL,"Nuvalent, Inc. Class A Common Stock",NASDAQ,35202010,Pharmaceuticals,7659654144.0,52130345.52948761,mid_cap,True,True,EDGAR,2026-03-19
+CYTK,"Cytokinetics, Incorporated Common Stock",NASDAQ,35202010,Pharmaceuticals,7659494912.0,126590239.9131171,mid_cap,True,True,EDGAR,2026-03-19
+HALO,"Halozyme Therapeutics, Inc. Common Stock",NASDAQ,35201010,Biotechnology,7511782400.0,138194645.51827875,mid_cap,True,True,EDGAR,2026-03-19
+KRYS,"Krystal Biotech, Inc. Common Stock",NASDAQ,35201010,Biotechnology,7332310016.0,77635309.34090169,mid_cap,True,True,EDGAR,2026-03-19
+ACLX,"Arcellx, Inc. Common Stock",NASDAQ,35201010,Biotechnology,6696523264.0,373661814.0005582,mid_cap,True,True,EDGAR,2026-03-19
+RGEN,Repligen Corporation Common Stock,NASDAQ,35201010,Biotechnology,6623975424.0,120898391.64853516,mid_cap,False,True,EDGAR,2026-03-19
+GRFS,"Grifols, S.A. American Depositary Shares",NASDAQ,35202010,Pharmaceuticals,6463820288.0,6350091.116240915,mid_cap,False,True,EDGAR,2026-03-19
+KYMR,"Kymera Therapeutics, Inc. Common Stock",NASDAQ,35201010,Biotechnology,6461178880.0,67235166.10987702,mid_cap,True,True,EDGAR,2026-03-19
+PTGX,"Protagonist Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,6195188224.0,61122911.48208618,mid_cap,True,True,EDGAR,2026-03-19
+RYTM,"Rhythm Pharmaceuticals, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,5862953472.0,79052014.12953745,mid_cap,True,True,EDGAR,2026-03-19
+COGT,"Cogent Biosciences, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,5578553856.0,64991595.728590645,mid_cap,True,True,EDGAR,2026-03-19
+PTCT,"PTC Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,5545906688.0,84041684.6207428,mid_cap,True,True,EDGAR,2026-03-19
+MIRM,"Mirum Pharmaceuticals, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,5530912768.0,74964399.35736592,mid_cap,True,True,EDGAR,2026-03-19
+CGON,"CG Oncology, Inc. Common stock",NASDAQ,35201010,Biotechnology,5441848320.0,71174592.2001775,mid_cap,True,True,EDGAR,2026-03-19
+XENE,Xenon Pharmaceuticals Inc. Common Shares,NASDAQ,35202010,Pharmaceuticals,5255173632.0,91151621.59748459,mid_cap,False,True,EDGAR,2026-03-19
+CAI,"Caris Life Sciences, Inc. Common Stock",NASDAQ,35201010,Biotechnology,5219250688.0,45361794.03433698,mid_cap,False,True,ETF,2026-03-19
+CELC,Celcuity Inc. Common Stock,NASDAQ,35201010,Biotechnology,5205979648.0,72424096.43716939,mid_cap,True,False,ETF,2026-03-19
+TERN,"Terns Pharmaceuticals, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,5196900352.0,86198947.71665955,mid_cap,False,True,EDGAR,2026-03-19
+BRKR,Bruker Corporation Common Stock,NASDAQ,,,5180020736.0,93525341.74950917,mid_cap,False,True,ETF,2026-03-19
+IMVT,"Immunovant, Inc. Common Stock",NASDAQ,35201010,Biotechnology,4803359232.0,33527405.653433926,mid_cap,True,True,EDGAR,2026-03-19
+TGTX,"TG Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,4797035520.0,53229073.91010005,mid_cap,True,False,EDGAR,2026-03-19
+APGE,"Apogee Therapeutics, Inc. Common Stock",NASDAQ,35201010,Biotechnology,4596957696.0,57547062.40782496,mid_cap,True,True,EDGAR,2026-03-19
+CRSP,CRISPR Therapeutics AG Common Shares,NASDAQ,35201010,Biotechnology,4577539584.0,111621644.84129308,mid_cap,True,True,EDGAR,2026-03-19
+SRRK,Scholar Rock Holding Corporation Common Stock,NASDAQ,35201010,Biotechnology,4571198464.0,51432599.99765905,mid_cap,True,True,EDGAR,2026-03-19
+ALKS,Alkermes plc Ordinary Shares,NASDAQ,35202010,Pharmaceuticals,4532878336.0,60302428.234564334,mid_cap,True,True,EDGAR,2026-03-19
+FOLD,"Amicus Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,4512189952.0,70370576.79644251,mid_cap,True,True,EDGAR,2026-03-19
+ERAS,"Erasca, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,4195793920.0,58037638.18156903,mid_cap,True,True,EDGAR,2026-03-19
+CNTA,Centessa Pharmaceuticals plc American Depositary Shares,NASDAQ,35202010,Pharmaceuticals,4193834496.0,32158333.65222117,mid_cap,False,True,EDGAR,2026-03-19
+STVN,Stevanato Group S.p.A.,NYSE,,,4157846016.0,10210238.286988195,mid_cap,False,True,ETF,2026-03-19
+VKTX,"Viking Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,3876846592.0,92449106.14014931,mid_cap,True,False,EDGAR,2026-03-19
+CRNX,"Crinetics Pharmaceuticals, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,3774627072.0,44435419.15459264,mid_cap,False,True,EDGAR,2026-03-19
+GPCR,Structure Therapeutics Inc. American Depositary Shares,NASDAQ,35202010,Pharmaceuticals,3675981312.0,61740030.801386006,mid_cap,False,True,EDGAR,2026-03-19
+ADMA,ADMA Biologics Inc Common Stock,NASDAQ,35201010,Biotechnology,3541426688.0,50067514.62527037,mid_cap,True,True,EDGAR,2026-03-19
+ACAD,ACADIA Pharmaceuticals Inc. Common Stock,NASDAQ,35202010,Pharmaceuticals,3464450304.0,42472366.902333066,mid_cap,True,True,EDGAR,2026-03-19
+DNTH,"Dianthus Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,3408572672.0,74713232.29039815,mid_cap,True,False,EDGAR,2026-03-19
+NAMS,NewAmsterdam Pharma Company N.V. Ordinary Shares,NASDAQ,35202010,Pharmaceuticals,3384876544.0,27795875.237909697,mid_cap,False,True,EDGAR,2026-03-19
+SYRE,"Spyre Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,3381939456.0,31804016.46974055,mid_cap,True,True,EDGAR,2026-03-19
+LEGN,Legend Biotech Corporation American Depositary Shares,NASDAQ,35202010,Pharmaceuticals,3368042240.0,36804766.10242768,mid_cap,False,True,EDGAR,2026-03-19
+EWTX,"Edgewise Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,3184861696.0,26221447.133363977,mid_cap,False,True,EDGAR,2026-03-19
+DNLI,Denali Therapeutics Inc. Common Stock,NASDAQ,35201010,Biotechnology,3181345280.0,32059958.755685106,mid_cap,True,True,EDGAR,2026-03-19
+ALMS,Alumis Inc. Common Stock,NASDAQ,35202010,Pharmaceuticals,3169642752.0,34927921.05074749,mid_cap,False,True,EDGAR,2026-03-19
+DYN,"Dyne Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,3018346240.0,38604432.34623794,mid_cap,True,True,EDGAR,2026-03-19
+IDYA,"IDEAYA Biosciences, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,2925085184.0,28147234.32823893,mid_cap,True,True,EDGAR,2026-03-19
+TARS,"Tarsus Pharmaceuticals, Inc. Common Stock",NASDAQ,35201010,Biotechnology,2904123136.0,44011803.624259695,mid_cap,False,True,EDGAR,2026-03-19
+VRDN,"Viridian Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,2834188032.0,37145434.949469246,mid_cap,True,False,EDGAR,2026-03-19
+CPRX,"Catalyst Pharmaceuticals, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,2803631360.0,29439810.995779548,mid_cap,True,False,EDGAR,2026-03-19
+RCUS,"Arcus Biosciences, Inc.",NYSE,35202010,Pharmaceuticals,2784011776.0,24853238.222765096,mid_cap,True,True,EDGAR,2026-03-19
+ARQT,"Arcutis Biotherapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,2758502400.0,35112864.94555823,mid_cap,True,True,EDGAR,2026-03-19
+VERA,"Vera Therapeutics, Inc. Class A Common Stock",NASDAQ,35202010,Pharmaceuticals,2734349056.0,44810754.852231346,mid_cap,True,True,EDGAR,2026-03-19
+TWST,Twist Bioscience Corporation Common Stock,NASDAQ,35201010,Biotechnology,2725918208.0,61150365.69804764,mid_cap,True,True,EDGAR,2026-03-19
+TNGX,"Tango Therapeutics, Inc.",NASDAQ,35202010,Pharmaceuticals,2665427712.0,51763560.18246015,mid_cap,True,True,EDGAR,2026-03-19
+VCYT,"Veracyte, Inc. Common Stock",NASDAQ,35203010,Life Science Tools & Services,2644376320.0,32708101.928009033,mid_cap,True,True,ETF,2026-03-19
+BEAM,Beam Therapeutics Inc. Common Stock,NASDAQ,35201010,Biotechnology,2579000064.0,49350290.84598363,mid_cap,True,True,EDGAR,2026-03-19
+TVTX,"Travere Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,2486832128.0,39195224.22042008,mid_cap,True,True,EDGAR,2026-03-19
+IMNM,"Immunome, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,2332806656.0,24009937.572028287,mid_cap,True,False,EDGAR,2026-03-19
+MAZE,"Maze Therapeutics, Inc. Common Stock",NASDAQ,35201010,Biotechnology,2332349440.0,25486672.820266724,mid_cap,False,True,EDGAR,2026-03-19
+BCRX,"BioCryst Pharmaceuticals, Inc. Common Stock",NASDAQ,35201010,Biotechnology,2297333760.0,42381883.81005827,mid_cap,True,True,EDGAR,2026-03-19
+APLS,"Apellis Pharmaceuticals, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,2286876928.0,44175469.75401052,mid_cap,True,True,EDGAR,2026-03-19
+IRON,"Disc Medicine, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,2256595200.0,55210237.7205925,mid_cap,True,True,EDGAR,2026-03-19
+WVE,Wave Life Sciences Ltd. Ordinary Shares,NASDAQ,35202010,Pharmaceuticals,2240233984.0,33141650.257814217,mid_cap,False,True,EDGAR,2026-03-19
+TXG,"10x Genomics, Inc. Class A Common Stock",NASDAQ,,,2216501760.0,52608027.78352687,mid_cap,False,True,ETF,2026-03-19
+DAWN,"Day One Biopharmaceuticals, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,2201273600.0,110913670.52991524,mid_cap,True,True,EDGAR,2026-03-19
+GLPG,Galapagos NV American Depositary Shares,NASDAQ,35202010,Pharmaceuticals,2119908736.0,3681050.6615819293,mid_cap,False,True,EDGAR,2026-03-19
+SNDX,"Syndax Pharmaceuticals, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,2085943936.0,29230082.91046804,mid_cap,True,True,EDGAR,2026-03-19
+ZLAB,Zai Lab Limited American Depositary Shares,NASDAQ,35202010,Pharmaceuticals,2083364992.0,12051122.755898476,mid_cap,False,True,EDGAR,2026-03-19
+TYRA,"Tyra Biosciences, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,2049643776.0,37763522.16172371,mid_cap,True,True,EDGAR,2026-03-19
+ADPT,Adaptive Biotechnologies Corporation Common Stock,NASDAQ,35201010,Biotechnology,2044875136.0,31611948.04592864,mid_cap,False,True,EDGAR,2026-03-19
+ORKA,"Oruka Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,2021341824.0,15971882.13844935,mid_cap,True,True,EDGAR,2026-03-19
+GRAL,"GRAIL, Inc. Common Stock",NASDAQ,35203010,Life Science Tools & Services,1985790592.0,104108840.20859171,small_cap,True,True,ETF,2026-03-19
+RARE,Ultragenyx Pharmaceutical Inc. Common Stock,NASDAQ,35202010,Pharmaceuticals,1977045504.0,46750449.56023992,small_cap,True,True,EDGAR,2026-03-19
+MLYS,"Mineralys Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,1969347584.0,34560979.14436576,small_cap,True,True,EDGAR,2026-03-19
+MESO,Mesoblast Limited American Depositary Shares,NASDAQ,35201010,Biotechnology,1941208576.0,4122413.071301333,small_cap,False,True,EDGAR,2026-03-19
+CLDX,"Celldex Therapeutics, Inc.",NASDAQ,35203010,Life Science Tools & Services,1899803520.0,25985428.180600483,small_cap,True,False,EDGAR,2026-03-19
+AUPH,Aurinia Pharmaceuticals Inc Ordinary Shares,NASDAQ,35202010,Pharmaceuticals,1872231296.0,13873480.069500605,small_cap,False,True,EDGAR,2026-03-19
+ANAB,"AnaptysBio, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,1860587136.0,30887661.425654095,small_cap,True,True,EDGAR,2026-03-19
+SRPT,"Sarepta Therapeutics, Inc. Common Stock (DE)",NASDAQ,35202010,Pharmaceuticals,1801624576.0,41973338.606051,small_cap,True,True,EDGAR,2026-03-19
+RLAY,"Relay Therapeutics, Inc. Common Stock",NASDAQ,35201010,Biotechnology,1774747264.0,24433456.4404761,small_cap,True,True,EDGAR,2026-03-19
+STOK,"Stoke Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,1771774080.0,26159857.38443006,small_cap,True,True,EDGAR,2026-03-19
+SLNO,"Soleno Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,1761688704.0,57017473.012394205,small_cap,True,False,EDGAR,2026-03-19
+DFTX,"Definium Therapeutics, Inc. Common Shares",NASDAQ,35202010,Pharmaceuticals,1758674944.0,26542528.35758972,small_cap,False,True,EDGAR,2026-03-19
+RXRX,"Recursion Pharmaceuticals, Inc. Class A Common Stock",NASDAQ,35201010,Biotechnology,1753631616.0,67787898.96011911,small_cap,True,True,EDGAR,2026-03-19
+ZYME,Zymeworks Inc. Common Stock,NASDAQ,35202010,Pharmaceuticals,1742400512.0,16737996.258528264,small_cap,False,True,EDGAR,2026-03-19
+PHVS,Pharvaris N.V. Ordinary Shares,NASDAQ,35202010,Pharmaceuticals,1699988992.0,3320265.858881569,small_cap,False,True,EDGAR,2026-03-19
+AGIO,"Agios Pharmaceuticals, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,1648197760.0,22666104.934080187,small_cap,True,True,EDGAR,2026-03-19
+VCEL,Vericel Corporation Common Stock,NASDAQ,35201010,Biotechnology,1639655168.0,17867940.667468645,small_cap,True,True,EDGAR,2026-03-19
+NVAX,"Novavax, Inc. Common Stock",NASDAQ,35201010,Biotechnology,1630988928.0,47160102.47883727,small_cap,True,True,EDGAR,2026-03-19
+ELVN,"Enliven Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,1629561088.0,21301874.65427907,small_cap,False,True,EDGAR,2026-03-19
+PVLA,"Palvella Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,1625442176.0,43255752.46271642,small_cap,True,False,EDGAR,2026-03-19
+NTLA,"Intellia Therapeutics, Inc. Common Stock",NASDAQ,35203010,Life Science Tools & Services,1560544128.0,51923402.708101116,small_cap,True,True,EDGAR,2026-03-19
+IOVA,"Iovance Biotherapeutics, Inc. Common Stock",NASDAQ,35201010,Biotechnology,1553095168.0,70914362.87002568,small_cap,True,True,EDGAR,2026-03-19
+SION,"Sionna Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,1547933696.0,9955600.733356731,small_cap,True,True,EDGAR,2026-03-19
+NRIX,"Nurix Therapeutics, Inc. Common stock",NASDAQ,35202010,Pharmaceuticals,1547787264.0,13597207.711605009,small_cap,True,True,EDGAR,2026-03-19
+AMLX,"Amylyx Pharmaceuticals, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,1524304512.0,12566503.312760226,small_cap,False,True,EDGAR,2026-03-19
+IMCR,Immunocore Holdings plc American Depositary Shares,NASDAQ,35201010,Biotechnology,1522880256.0,12556529.151304627,small_cap,False,True,EDGAR,2026-03-19
+VIR,"Vir Biotechnology, Inc. Common Stock",NASDAQ,35201010,Biotechnology,1489442176.0,47225643.33317229,small_cap,True,True,EDGAR,2026-03-19
+NUVB,Nuvation Bio Inc.,NYSE,35202010,Pharmaceuticals,1487716480.0,26974584.50280911,small_cap,False,True,EDGAR,2026-03-19
+NVCR,NovoCure Limited Ordinary Shares,NASDAQ,,,1372360448.0,32986787.32750613,small_cap,False,True,ETF,2026-03-19
+TRVI,"Trevi Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,1370780160.0,14728094.482880052,small_cap,False,True,EDGAR,2026-03-19
+BHVN,Biohaven Ltd.,NYSE,35202010,Pharmaceuticals,1367291392.0,25045463.117413457,small_cap,True,True,EDGAR,2026-03-19
+MBX,"MBX Biosciences, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,1363544064.0,18763996.59595871,small_cap,False,True,EDGAR,2026-03-19
+ARDX,"Ardelyx, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,1361123200.0,24808311.70867901,small_cap,True,False,EDGAR,2026-03-19
+KOD,Kodiak Sciences Inc Common Stock,NASDAQ,35201010,Biotechnology,1347949312.0,14750537.28211371,small_cap,True,True,EDGAR,2026-03-19
+ATAI,AtaiBeckley Inc. Common Stock,NASDAQ,35202010,Pharmaceuticals,1293043968.0,18621137.32142447,small_cap,False,True,EDGAR,2026-03-19
+RAPP,"Rapport Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,1262066816.0,9584422.50574735,small_cap,False,True,EDGAR,2026-03-19
+ZBIO,"Zenas BioPharma, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,1236231296.0,16515142.396986326,small_cap,False,True,EDGAR,2026-03-19
+TSHA,"Taysha Gene Therapies, Inc. Common Stock",NASDAQ,35201010,Biotechnology,1218941056.0,11499821.623661455,small_cap,True,True,EDGAR,2026-03-19
+ORIC,"Oric Pharmaceuticals, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,1216400128.0,18863781.643533867,small_cap,True,True,EDGAR,2026-03-19
+GLUE,"Monte Rosa Therapeutics, Inc. Common Stock",NASDAQ,35201010,Biotechnology,1201585920.0,17917603.835809454,small_cap,True,True,EDGAR,2026-03-19
+BCAX,Bicara Therapeutics Inc. Common Stock,NASDAQ,35202010,Pharmaceuticals,1192926208.0,9553173.645214844,small_cap,True,True,EDGAR,2026-03-19
+ALVO,Alvotech Ordinary Shares,NASDAQ,35201010,Biotechnology,1184084352.0,2574398.0840406814,small_cap,False,True,EDGAR,2026-03-19
+CRVS,"Corvus Pharmaceuticals, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,1182613120.0,22357955.240426064,small_cap,True,True,EDGAR,2026-03-19
+OLMA,"Olema Pharmaceuticals, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,1167529216.0,37014974.6628994,small_cap,True,True,EDGAR,2026-03-19
+PGEN,"Precigen, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,1157006208.0,17447780.723444413,small_cap,True,True,EDGAR,2026-03-19
+MRVI,"Maravai LifeSciences Holdings, Inc. Class A Common Stock",NASDAQ,35202010,Pharmaceuticals,1121641472.0,4729455.434257602,small_cap,False,True,EDGAR,2026-03-19
+SEPN,"Septerna, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,1082692736.0,8854079.971884917,small_cap,False,True,EDGAR,2026-03-19
+ABCL,AbCellera Biologics Inc. Common Shares,NASDAQ,35202010,Pharmaceuticals,1067124864.0,12595017.1799469,small_cap,False,True,EDGAR,2026-03-19
+SVRA,Savara Inc. Common Stock,NASDAQ,35202010,Pharmaceuticals,1025477888.0,8672991.677078819,small_cap,True,True,EDGAR,2026-03-19
+AVBP,"ArriVent BioPharma, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,1008239040.0,12516963.922009023,small_cap,True,True,EDGAR,2026-03-19
+INBX,"Inhibrx Biosciences, Inc. Common Stock",NASDAQ,35201010,Biotechnology,999009408.0,12765475.2700826,small_cap,True,True,EDGAR,2026-03-19
+GERN,Geron Corporation Common Stock,NASDAQ,35202010,Pharmaceuticals,992844160.0,30041913.561461996,small_cap,True,True,EDGAR,2026-03-19
+CMPX,"Compass Therapeutics, Inc. Common Stock",NASDAQ,35201010,Biotechnology,958067776.0,11567810.549651051,small_cap,True,False,EDGAR,2026-03-19
+GHRS,GH Research PLC Ordinary Shares,NASDAQ,35202010,Pharmaceuticals,931681536.0,3517684.0179976146,small_cap,False,True,EDGAR,2026-03-19
+FTRE,Fortrea Holdings Inc. Common Stock,NASDAQ,35201010,Biotechnology,929389952.0,23025589.904963493,small_cap,False,True,ETF,2026-03-19
+QURE,uniQure N.V. Ordinary Shares,NASDAQ,35202010,Pharmaceuticals,921058176.0,74780927.09204648,small_cap,True,True,EDGAR,2026-03-19
+URGN,UroGen Pharma Ltd. Ordinary Shares,NASDAQ,35202010,Pharmaceuticals,899648512.0,17626107.1612559,small_cap,False,True,EDGAR,2026-03-19
+OPK,"OPKO Health, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,898210496.0,2742678.782597347,small_cap,False,True,EDGAR,2026-03-19
+CDNA,"CareDx, Inc. Common Stock",NASDAQ,35203010,Life Science Tools & Services,893899264.0,12086310.79275767,small_cap,True,True,ETF,2026-03-19
+PHAT,"Phathom Pharmaceuticals, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,863633856.0,12296739.285924308,small_cap,False,True,EDGAR,2026-03-19
+XNCR,"Xencor, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,849994880.0,8594554.364561971,small_cap,True,True,EDGAR,2026-03-19
+JANX,"Janux Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,843126720.0,13183334.750829633,small_cap,True,True,EDGAR,2026-03-19
+SANA,"Sana Biotechnology, Inc. Common Stock",NASDAQ,35201010,Biotechnology,835293440.0,8599743.630290858,small_cap,True,True,EDGAR,2026-03-19
+SPRY,"ARS Pharmaceuticals, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,820443456.0,10368821.978475697,small_cap,True,True,EDGAR,2026-03-19
+ABUS,Arbutus Biopharma Corporation Common Stock,NASDAQ,35202010,Pharmaceuticals,817377088.0,11103924.613760948,small_cap,True,True,EDGAR,2026-03-19
+BIOA,"BioAge Labs, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,808327872.0,11618163.989687601,small_cap,False,True,EDGAR,2026-03-19
+ANNX,"Annexon, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,807882816.0,13835632.099551074,small_cap,True,True,EDGAR,2026-03-19
+MNKD,MannKind Corporation Common Stock,NASDAQ,35202010,Pharmaceuticals,804142144.0,22761567.311144583,small_cap,True,True,EDGAR,2026-03-19
+CGEM,"Cullinan Therapeutics, Inc. Common Stock",NASDAQ,35201010,Biotechnology,794708096.0,11029528.52132953,small_cap,True,True,EDGAR,2026-03-19
+KALV,"KalVista Pharmaceuticals, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,782962048.0,13293863.257466253,small_cap,True,True,EDGAR,2026-03-19
+CSTL,"Castle Biosciences, Inc. Common Stock",NASDAQ,35203010,Life Science Tools & Services,761564608.0,13435675.44647541,small_cap,False,True,ETF,2026-03-19
+CTMX,"CytomX Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,745515712.0,51237176.98448709,small_cap,True,True,EDGAR,2026-03-19
+KURA,"Kura Oncology, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,741086720.0,13140446.72208058,small_cap,True,True,EDGAR,2026-03-19
+PSNL,"Personalis, Inc. Common Stock",NASDAQ,35203010,Life Science Tools & Services,728237568.0,12094128.46997118,small_cap,False,True,ETF,2026-03-19
+BBOT,"BridgeBio Oncology Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,710691456.0,2707574.869274775,small_cap,False,True,EDGAR,2026-03-19
+TBPH,"Theravance Biopharma, Inc. Ordinary Shares",NASDAQ,35202010,Pharmaceuticals,700799744.0,12491233.512962215,small_cap,False,True,EDGAR,2026-03-19
+ANRO,Alto Neuroscience Inc.,NYSE,35202010,Pharmaceuticals,699613888.0,5187280.386623383,small_cap,False,True,EDGAR,2026-03-19
+ARVN,"Arvinas, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,699402624.0,10773738.401648235,small_cap,False,True,EDGAR,2026-03-19
+CMPS,COMPASS Pathways Plc American Depository Shares,NASDAQ,35202010,Pharmaceuticals,667480192.0,31230428.71323986,small_cap,False,True,EDGAR,2026-03-19
+PRME,"Prime Medicine, Inc. Common Stock",NASDAQ,35201010,Biotechnology,637349184.0,10697408.98580582,small_cap,True,True,EDGAR,2026-03-19
+MDXG,"MiMedx Group, Inc Common Stock",NASDAQ,35201010,Biotechnology,629922304.0,4387269.956359037,small_cap,True,False,ETF,2026-03-19
+TECX,"Tectonic Therapeutic, Inc. Common Stock",NASDAQ,35201010,Biotechnology,603668544.0,13233117.003237406,small_cap,False,True,EDGAR,2026-03-19
+MGTX,MeiraGTx Holdings plc Ordinary Shares,NASDAQ,35201010,Biotechnology,598047296.0,2754742.831757752,small_cap,False,True,EDGAR,2026-03-19
+DSGN,"Design Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,586726720.0,2570269.995413844,small_cap,False,True,EDGAR,2026-03-19
+REPL,"Replimune Group, Inc. Common Stock",NASDAQ,35201010,Biotechnology,558190912.0,11158066.793671226,small_cap,True,True,EDGAR,2026-03-19
+CTKB,"Cytek Biosciences, Inc. Common Stock",NASDAQ,,,557907584.0,3688874.206700643,small_cap,False,True,ETF,2026-03-19
+SLDB,Solid Biosciences Inc. Common Stock,NASDAQ,35201010,Biotechnology,554720896.0,11439173.63464686,small_cap,False,True,EDGAR,2026-03-19
+CATX,"Perspective Therapeutics, Inc.",AMEX,35202010,Pharmaceuticals,553622464.0,9356697.607297214,small_cap,False,True,EDGAR,2026-03-19
+ZVRA,"Zevra Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,537641472.0,12226352.378647994,small_cap,False,True,EDGAR,2026-03-19
+IRWD,"Ironwood Pharmaceuticals, Inc. Class A Common Stock",NASDAQ,35202010,Pharmaceuticals,516894880.0,12466752.94555982,small_cap,True,True,EDGAR,2026-03-19
+KYTX,"Kyverna Therapeutics, Inc. Common Stock",NASDAQ,35201010,Biotechnology,509040384.0,4886005.931347498,small_cap,False,True,EDGAR,2026-03-19
+VNDA,Vanda Pharmaceuticals Inc. Common Stock,NASDAQ,35202010,Pharmaceuticals,505964768.0,28853115.876530744,small_cap,False,True,EDGAR,2026-03-19
+ADCT,ADC Therapeutics SA,NYSE,35202010,Pharmaceuticals,496747232.0,3693411.136776606,small_cap,False,True,EDGAR,2026-03-19
+FDMT,"4D Molecular Therapeutics, Inc. Common Stock",NASDAQ,35201010,Biotechnology,489076288.0,6432053.863015143,small_cap,True,True,EDGAR,2026-03-19
+VSTM,"Verastem, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,488363168.0,10484750.479084333,small_cap,True,False,EDGAR,2026-03-19
+RCKT,"Rocket Pharmaceuticals, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,485304064.0,12058304.199100606,small_cap,False,True,EDGAR,2026-03-19
+ALLO,"Allogene Therapeutics, Inc. Common Stock",NASDAQ,35201010,Biotechnology,483169824.0,11207772.297879202,small_cap,False,True,EDGAR,2026-03-19
+FLGT,"Fulgent Genetics, Inc. Common Stock",NASDAQ,35203010,Life Science Tools & Services,472831776.0,10696898.861449908,small_cap,False,True,ETF,2026-03-19
+AVIR,"Atea Pharmaceuticals, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,470861984.0,3093799.7719755173,small_cap,False,True,EDGAR,2026-03-19
+RIGL,"Rigel Pharmaceuticals, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,469956448.0,11902624.952226449,small_cap,True,True,EDGAR,2026-03-19
+UPB,"Upstream Bio, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,468244384.0,20243082.372218005,small_cap,True,True,EDGAR,2026-03-19
+LYEL,"Lyell Immunopharma, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,467541312.0,2746718.8011344275,small_cap,False,True,EDGAR,2026-03-19
+PRTA,Prothena Corporation plc Ordinary Shares,NASDAQ,35202010,Pharmaceuticals,462425344.0,4576999.662140783,small_cap,True,True,EDGAR,2026-03-19
+FULC,"Fulcrum Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,460873440.0,9503426.569780858,small_cap,False,True,EDGAR,2026-03-19
+TRDA,"Entrada Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,454817632.0,2495607.8372681937,small_cap,False,True,EDGAR,2026-03-19
+NMRA,"Neumora Therapeutics, Inc. Common Stock",NASDAQ,35201010,Biotechnology,448637536.0,4465996.072084697,small_cap,False,True,EDGAR,2026-03-19
+CTNM,"Contineum Therapeutics, Inc. Class A Common Stock",NASDAQ,35202010,Pharmaceuticals,446389856.0,3569540.3977447827,small_cap,False,True,EDGAR,2026-03-19
+LRMR,"Larimar Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,445438720.0,34577646.61029679,small_cap,False,True,EDGAR,2026-03-19
+ACRS,"Aclaris Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,443179328.0,6938124.470907648,small_cap,False,True,EDGAR,2026-03-19
+MYGN,"Myriad Genetics, Inc. Common Stock",NASDAQ,35203010,Life Science Tools & Services,433877888.0,8478525.513128916,small_cap,True,True,EDGAR,2026-03-19
+ABSI,Absci Corporation Common Stock,NASDAQ,35201010,Biotechnology,430062592.0,8876598.514916642,small_cap,True,True,ETF,2026-03-19
+ALT,"Altimmune, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,428291808.0,13606410.61006864,small_cap,True,True,EDGAR,2026-03-19
+RGNX,REGENXBIO Inc. Common Stock,NASDAQ,35201010,Biotechnology,427355488.0,8846592.366913032,small_cap,True,True,EDGAR,2026-03-19
+IVVD,"Invivyd, Inc. Common Stock",NASDAQ,35201010,Biotechnology,426718016.0,3992398.5418063165,small_cap,True,False,EDGAR,2026-03-19
+EBS,"Emergent Biosolutions, Inc.",NYSE,35202010,Pharmaceuticals,420159712.0,9315763.303126525,small_cap,True,True,EDGAR,2026-03-19
+LXEO,"Lexeo Therapeutics, Inc. Common Stock",NASDAQ,35201010,Biotechnology,420042080.0,5734879.347853501,small_cap,True,True,EDGAR,2026-03-19
+AURA,"Aura Biosciences, Inc. Common Stock",NASDAQ,35201010,Biotechnology,417851488.0,1407076.4044287999,small_cap,False,True,EDGAR,2026-03-19
+DNA,"Ginkgo Bioworks Holdings, Inc.",NYSE,35201010,Biotechnology,401889024.0,10383202.901064873,small_cap,False,True,EDGAR,2026-03-19
+PACB,"Pacific Biosciences of California, Inc. Common Stock",NASDAQ,,,401657760.0,10029290.106864853,small_cap,False,True,ETF,2026-03-19
+AVXL,Anavex Life Sciences Corp. Common Stock,NASDAQ,35201010,Biotechnology,394781728.0,5041289.409035905,small_cap,True,True,EDGAR,2026-03-19
+AUTL,Autolus Therapeutics plc American Depositary Share,NASDAQ,35201010,Biotechnology,385907776.0,2396809.164936002,small_cap,False,True,EDGAR,2026-03-19
+AKBA,"Akebia Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,385746112.0,4765253.321512206,small_cap,True,False,EDGAR,2026-03-19
+LAB,Standard BioTools Inc. Common Stock,NASDAQ,,,371105600.0,2434006.9024225674,small_cap,False,True,ETF,2026-03-19
+CADL,"Candel Therapeutics, Inc. Common Stock",NASDAQ,35201010,Biotechnology,369164512.0,7249180.396395429,small_cap,False,True,EDGAR,2026-03-19
+ENTA,"Enanta Pharmaceuticals, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,368545664.0,2694075.8720445633,small_cap,False,True,EDGAR,2026-03-19
+LENZ,"LENZ Therapeutics, Inc. Common Stock",NASDAQ,35201010,Biotechnology,366718432.0,10050683.848880386,small_cap,False,True,EDGAR,2026-03-19
+PEPG,PepGen Inc. Common Stock,NASDAQ,35202010,Pharmaceuticals,353870304.0,4486543.44164257,small_cap,False,True,EDGAR,2026-03-19
+LCTX,"Lineage Cell Therapeutics, Inc.",AMEX,35201010,Biotechnology,345491296.0,2122362.0023938813,small_cap,False,True,EDGAR,2026-03-19
+KROS,"Keros Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,333603424.0,5584989.929782231,small_cap,True,True,EDGAR,2026-03-19
+BCYC,Bicycle Therapeutics plc American Depositary Shares,NASDAQ,35202010,Pharmaceuticals,326029088.0,2407604.7614206313,small_cap,False,True,EDGAR,2026-03-19
+NBP,NovaBridge Biosciences American Depositary Shares,NASDAQ,35202010,Pharmaceuticals,325120704.0,2302718.4033569335,small_cap,False,True,EDGAR,2026-03-19
+SLN,Silence Therapeutics Plc American Depository Share,NASDAQ,35202010,Pharmaceuticals,313161088.0,1493259.611383279,small_cap,False,True,EDGAR,2026-03-19
+IMRX,Immuneering Corporation Class A Common Stock,NASDAQ,35202010,Pharmaceuticals,309041024.0,4237490.066882833,small_cap,True,True,EDGAR,2026-03-19
+NGNE,Neurogene Inc. Common Stock,NASDAQ,35202010,Pharmaceuticals,302051104.0,3818445.011575826,small_cap,False,True,EDGAR,2026-03-19
+CABA,"Cabaletta Bio, Inc. Common Stock",NASDAQ,35201010,Biotechnology,285907648.0,8101511.314878027,micro_cap,False,True,EDGAR,2026-03-19
+CCCC,"C4 Therapeutics, Inc. Common Stock",NASDAQ,35201010,Biotechnology,262485296.0,7014131.921289095,micro_cap,False,True,EDGAR,2026-03-19
+EDIT,"Editas Medicine, Inc. Common Stock",NASDAQ,35201010,Biotechnology,229999184.0,3757358.3252959726,micro_cap,False,True,EDGAR,2026-03-19
+RZLT,"Rezolute, Inc. Common Stock (NV)",NASDAQ,35202010,Pharmaceuticals,227760512.0,8129667.902407932,micro_cap,True,False,EDGAR,2026-03-19
+VYGR,"Voyager Therapeutics, Inc. Common Stock",NASDAQ,35201010,Biotechnology,224093648.0,3458938.9287599404,micro_cap,False,True,EDGAR,2026-03-19
+QTRX,Quanterix Corporation Common Stock,NASDAQ,,,212168688.0,3366868.398040263,micro_cap,False,True,ETF,2026-03-19
+HUMA,"Humacyte, Inc. Common Stock",NASDAQ,35201010,Biotechnology,204576288.0,6083149.181044666,micro_cap,False,True,EDGAR,2026-03-19
+RNA,"Atrium Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,191144384.0,25068346.314294815,micro_cap,True,False,EDGAR,2026-03-19
+QSI,Quantum-Si Incorporated Class A Common Stock,NASDAQ,,,190923792.0,3818937.9103854694,micro_cap,False,True,ETF,2026-03-19
+ARCT,Arcturus Therapeutics Holdings Inc. Common Stock,NASDAQ,35202010,Pharmaceuticals,186171104.0,3548152.7108632405,micro_cap,False,True,EDGAR,2026-03-19
+CRBU,"Caribou Biosciences, Inc. Common Stock",NASDAQ,35201010,Biotechnology,184577056.0,2501836.309733816,micro_cap,False,True,EDGAR,2026-03-19
+TNYA,"Tenaya Therapeutics, Inc. Common Stock",NASDAQ,35201010,Biotechnology,178481584.0,4039570.5858298144,micro_cap,False,True,EDGAR,2026-03-19
+SGMT,Sagimet Biosciences Inc. Series A Common Stock,NASDAQ,35202010,Pharmaceuticals,158363632.0,2480615.858891233,micro_cap,False,True,EDGAR,2026-03-19
+CDXS,"Codexis, Inc. Common Stock",NASDAQ,35201010,Biotechnology,133577952.0,4912030.58754898,micro_cap,False,True,ETF,2026-03-19
+BDTX,"Black Diamond Therapeutics, Inc. Common Stock",NASDAQ,35201010,Biotechnology,123635560.0,1502109.759683768,micro_cap,False,True,EDGAR,2026-03-19
+AARD,"Aardvark Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,106253568.0,2426731.4315049173,micro_cap,False,True,EDGAR,2026-03-19
+GOSS,"Gossamer Bio, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,100475152.0,14659251.687760266,micro_cap,True,True,EDGAR,2026-03-19
+LLY,Eli Lilly & Co.,NYSE,35202010,Pharmaceuticals,821671952384.0,3403234768.9246173,large_cap,False,False,EDGAR,2026-03-19
+JNJ,Johnson & Johnson,NYSE,35202010,Pharmaceuticals,571820802048.0,2089805515.2037425,large_cap,False,False,EDGAR,2026-03-19
+AZN,AstraZeneca PLC,NYSE,35202010,Pharmaceuticals,292104404992.0,441714379.5244649,large_cap,False,False,EDGAR,2026-03-19
+NVS,Novartis AG,NYSE,35202010,Pharmaceuticals,289593262080.0,455237584.30082804,large_cap,False,False,EDGAR,2026-03-19
+MRK,"Merck & Co., Inc.",NYSE,35202010,Pharmaceuticals,283088879616.0,1311408677.5196013,large_cap,False,False,EDGAR,2026-03-19
+ABT,Abbott Laboratories,NYSE,35202010,Pharmaceuticals,188521218048.0,1023970688.8640587,large_cap,False,False,EDGAR,2026-03-19
+NVO,Novo-Nordisk A/S,NYSE,35202010,Pharmaceuticals,166940262400.0,1068105603.5459914,large_cap,False,False,EDGAR,2026-03-19
+PFE,Pfizer Inc.,NYSE,35202010,Pharmaceuticals,155348828160.0,1158307910.2770922,large_cap,False,False,EDGAR,2026-03-19
+BMY,Bristol-Myers Squibb Co.,NYSE,35202010,Pharmaceuticals,120905441280.0,797743978.4344888,large_cap,False,False,EDGAR,2026-03-19
+SNY,Sanofi ADS,NASDAQ,35202010,Pharmaceuticals,105563095040.0,226397153.2908109,large_cap,False,False,EDGAR,2026-03-19
+GSK,GSK plc American Depositary Shares (Each representing two Ordinary Shares),NYSE,35202010,Pharmaceuticals,104383807488.0,352865253.2146041,large_cap,False,False,EDGAR,2026-03-19
+TAK,Takeda Pharmaceutical Company Limited American Depositary Shares (each representing 1/2 of a share of Common Stock),NYSE,35202010,Pharmaceuticals,56960249856.0,47580662.165822916,large_cap,False,False,EDGAR,2026-03-19
+ZTS,ZOETIS INC.,NYSE,35202010,Pharmaceuticals,51715346432.0,551666421.8827024,large_cap,False,False,EDGAR,2026-03-19
+IDXX,"IDEXX Laboratories, Inc. Common Stock",NASDAQ,35203010,Life Science Tools & Services,46083796992.0,327232927.8246745,large_cap,False,False,EDGAR,2026-03-19
+TEVA,Teva Pharmaceutical Industries Limited American Depositary Shares,NYSE,35202010,Pharmaceuticals,34484953088.0,251076251.7855352,large_cap,False,False,EDGAR,2026-03-19
+RPRX,Royalty Pharma plc Class A Ordinary Shares,NASDAQ,35202010,Pharmaceuticals,26485358592.0,164986889.06114274,large_cap,False,False,EDGAR,2026-03-19
+VTRS,Viatris Inc. Common Stock,NASDAQ,35202010,Pharmaceuticals,15825317888.0,176868911.96423957,large_cap,False,False,EDGAR,2026-03-19
+RGC,Regencell Bioscience Holdings Limited Ordinary Shares,NASDAQ,35202010,Pharmaceuticals,13044616192.0,3572214.7878046036,large_cap,False,False,EDGAR,2026-03-19
+ELAN,Elanco Animal Health Incorporated Common Stock,NYSE,35202010,Pharmaceuticals,12344682496.0,124702890.05030054,large_cap,False,False,EDGAR,2026-03-19
+RDY,Dr. Reddy's Laboratories Limited American Depositary Shares,NYSE,35202010,Pharmaceuticals,11539712000.0,27971694.99641539,large_cap,False,False,EDGAR,2026-03-19
+RNAM,"Avidity Biosciences, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,11249150976.0,150387928.92456782,large_cap,False,False,EDGAR,2026-03-19
+JAZZ,Jazz Pharmaceuticals plc Common Stock (Ireland),NASDAQ,35202010,Pharmaceuticals,11108564992.0,178667657.81522673,large_cap,False,False,EDGAR,2026-03-19
+QGEN,QIAGEN N.V.,NYSE,35201010,Biotechnology,8335731712.0,104603478.28891437,mid_cap,False,False,EDGAR,2026-03-19
+BLTE,"Belite Bio, Inc American Depositary Shares",NASDAQ,35202010,Pharmaceuticals,6347108864.0,33252710.16703593,mid_cap,False,False,EDGAR,2026-03-19
+LNTH,"Lantheus Holdings, Inc. Common Stock",NASDAQ,35203010,Life Science Tools & Services,5320857088.0,80334004.45794347,mid_cap,False,False,EDGAR,2026-03-19
+LGND,Ligand Pharmaceuticals Incorporated Common Stock,NASDAQ,35202010,Pharmaceuticals,4178067712.0,42705636.84650065,mid_cap,False,False,EDGAR,2026-03-19
+AMRX,"Amneal Pharmaceuticals, Inc. Class A Common Stock",NASDAQ,35202010,Pharmaceuticals,3898254592.0,29069485.209169548,mid_cap,False,False,EDGAR,2026-03-19
+INDV,"Indivior Pharmaceuticals, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,3818241792.0,88902945.16527863,mid_cap,False,False,EDGAR,2026-03-19
+CORT,Corcept Therapeutics Incorporated Common Stock,NASDAQ,35202010,Pharmaceuticals,3542254592.0,57945090.89838918,mid_cap,False,False,EDGAR,2026-03-19
+KNSA,"Kiniksa Pharmaceuticals International, plc Class A Ordinary Shares",NASDAQ,35202010,Pharmaceuticals,3455572224.0,28758035.340682983,mid_cap,False,False,EDGAR,2026-03-19
+LQDA,Liquidia Corporation Common Stock,NASDAQ,35202010,Pharmaceuticals,3227631616.0,64200803.14499283,mid_cap,False,False,EDGAR,2026-03-19
+PBH,Prestige Consumer Healthcare Inc.,NYSE,35202010,Pharmaceuticals,2921103616.0,28237150.06512553,mid_cap,False,False,EDGAR,2026-03-19
+TLX,Telix Pharmaceuticals Limited American Depositary Shares,NASDAQ,35202010,Pharmaceuticals,2849114880.0,2175642.1397316614,mid_cap,False,False,EDGAR,2026-03-19
+SUPN,"Supernus Pharmaceuticals, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,2838202624.0,42092607.27196503,mid_cap,False,False,EDGAR,2026-03-19
+PAHC,Phibro Animal Health Corporation Class A Common Stock,NASDAQ,35202010,Pharmaceuticals,2117128192.0,15617796.82761917,mid_cap,False,False,EDGAR,2026-03-19
+MANE,"Veradermics, Incorporated",NYSE,35202010,Pharmaceuticals,2069898624.0,18616125.812554043,mid_cap,False,False,EDGAR,2026-03-19
+NKTR,Nektar Therapeutics Common Stock,NASDAQ,35202010,Pharmaceuticals,2047541248.0,97383542.7990008,mid_cap,False,False,EDGAR,2026-03-19
+NEOG,Neogen Corporation Common Stock,NASDAQ,35203010,Life Science Tools & Services,1927280128.0,30260545.930704657,small_cap,False,False,EDGAR,2026-03-19
+BHC,Bausch Health Companies Inc,NYSE,35202010,Pharmaceuticals,1889685632.0,13611145.59141941,small_cap,False,False,EDGAR,2026-03-19
+OCUL,"Ocular Therapeutix, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,1848203136.0,68058746.41280365,small_cap,False,False,EDGAR,2026-03-19
+CAPR,"Capricor Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,1772761088.0,38324620.49205411,small_cap,False,False,EDGAR,2026-03-19
+GLTO,"Galecto, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,1728287744.0,7936779.11487643,small_cap,False,False,EDGAR,2026-03-19
+RAPT,"RAPT Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,1680292864.0,178610377.81143188,small_cap,False,False,EDGAR,2026-03-19
+ANIP,"ANI Pharmaceuticals, Inc.",NASDAQ,35202010,Pharmaceuticals,1665722240.0,28793397.68465169,small_cap,False,False,EDGAR,2026-03-19
+INVA,"Innoviva, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,1636694784.0,17187174.14377645,small_cap,False,False,EDGAR,2026-03-19
+OGN,Organon & Co.,NYSE,35202010,Pharmaceuticals,1621766528.0,29775557.85702723,small_cap,False,False,EDGAR,2026-03-19
+HRMY,"Harmony Biosciences Holdings, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,1610861184.0,32948556.49237779,small_cap,False,False,EDGAR,2026-03-19
+NBTX,Nanobiotix S.A. American Depositary Shares,NASDAQ,35202010,Pharmaceuticals,1579866752.0,1545493.6568901062,small_cap,False,False,EDGAR,2026-03-19
+OCS,Oculis Holding AG Ordinary shares,NASDAQ,35202010,Pharmaceuticals,1524990720.0,10468702.216636023,small_cap,False,False,EDGAR,2026-03-19
+GENB,"Generate Biomedicines, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,1505186944.0,14752410.63672672,small_cap,False,False,EDGAR,2026-03-19
+PRGO,PERRIGO COMPANY PLC,NYSE,35202010,Pharmaceuticals,1368234368.0,43057959.29915968,small_cap,False,False,EDGAR,2026-03-19
+IMTX,Immatics N.V. Ordinary Shares,NASDAQ,35201010,Biotechnology,1298054912.0,5310262.558739217,small_cap,False,False,EDGAR,2026-03-19
+HROW,"Harrow, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,1283680128.0,36576969.31447665,small_cap,False,False,EDGAR,2026-03-19
+DMRA,"Damora Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,1274077440.0,9707974.839200718,small_cap,False,False,EDGAR,2026-03-19
+IVA,Inventiva S.A. American Depository Shares,NASDAQ,35202010,Pharmaceuticals,1237581568.0,2154340.011654218,small_cap,False,False,EDGAR,2026-03-19
+MLTX,MoonLake Immunotherapeutics Class A Ordinary Shares,NASDAQ,35202010,Pharmaceuticals,1164143360.0,20154743.53765208,small_cap,False,False,EDGAR,2026-03-19
+QDEL,QuidelOrtho Corporation Common Stock,NASDAQ,35203010,Life Science Tools & Services,1159432576.0,31146534.58164692,small_cap,False,False,EDGAR,2026-03-19
+COLL,"Collegium Pharmaceutical, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,1105011712.0,17757879.15105502,small_cap,False,False,EDGAR,2026-03-19
+DBVT,DBV Technologies S.A. American Depositary Shares,NASDAQ,35201010,Biotechnology,1091589504.0,5877109.937426504,small_cap,False,False,EDGAR,2026-03-19
+AKTS,"Aktis Oncology, Inc. Common stock",NASDAQ,35202010,Pharmaceuticals,1008503616.0,4556256.929580371,small_cap,False,False,EDGAR,2026-03-19
+VTYX,"Ventyx Biosciences, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,1004502016.0,38595486.70545723,small_cap,False,False,EDGAR,2026-03-19
+CRON,Cronos Group Inc. Common Share,NASDAQ,35202010,Pharmaceuticals,976932032.0,2902408.9664224624,small_cap,False,False,EDGAR,2026-03-19
+PCRX,"Pacira BioSciences, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,947328512.0,18854309.535998788,small_cap,False,False,EDGAR,2026-03-19
+XERS,"Xeris Biopharma Holdings, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,936301888.0,12489697.642012835,small_cap,False,False,EDGAR,2026-03-19
+NNNN,Anbio Biotechnology Class A Ordinary Shares,NASDAQ,35203010,Life Science Tools & Services,919081728.0,1400138.939175733,small_cap,False,False,EDGAR,2026-03-19
+SLS,"SELLAS Life Sciences Group, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,888706752.0,30298649.304208595,small_cap,False,False,EDGAR,2026-03-19
+SDGR,"Schrodinger, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,884424704.0,19088854.540620167,small_cap,False,False,EDGAR,2026-03-19
+AMPH,"Amphastar Pharmaceuticals, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,873091328.0,13119858.575039165,small_cap,False,False,EDGAR,2026-03-19
+TLRY,"Tilray Brands, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,784091520.0,19494806.21572639,small_cap,False,False,EDGAR,2026-03-19
+OMER,Omeros Corporation Common Stock,NASDAQ,35202010,Pharmaceuticals,776360000.0,9922267.33813216,small_cap,False,False,EDGAR,2026-03-19
+MPLT,"MapLight Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,772249024.0,3001393.931166331,small_cap,False,False,EDGAR,2026-03-19
+EVMN,"Evommune, Inc.",NYSE,35202010,Pharmaceuticals,759415360.0,25670351.430483375,small_cap,False,False,EDGAR,2026-03-19
+OCGN,"Ocugen, Inc. Common Stock",NASDAQ,35201010,Biotechnology,750884736.0,16442588.60338257,small_cap,False,False,EDGAR,2026-03-19
+DRUG,Bright Minds Biosciences Inc. Common Stock,NASDAQ,35202010,Pharmaceuticals,683633152.0,8846768.432552338,small_cap,False,False,EDGAR,2026-03-19
+AGMB,AgomAb Therapeutics NV American Depositary Shares,NASDAQ,35201010,Biotechnology,681693504.0,3361909.708010878,small_cap,False,False,EDGAR,2026-03-19
+JBIO,"Jade Biosciences, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,679578432.0,4267849.117938391,small_cap,False,False,EDGAR,2026-03-19
+LXRX,"Lexicon Pharmaceuticals, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,660941696.0,3854002.0967909493,small_cap,False,False,EDGAR,2026-03-19
+ESPR,"Esperion Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,643310272.0,13715920.889482116,small_cap,False,False,EDGAR,2026-03-19
+EIKN,"Eikon Therapeutics, Inc. Common Stock",NASDAQ,35201010,Biotechnology,633776064.0,7632830.192584794,small_cap,False,False,EDGAR,2026-03-19
+PROK,ProKidney Corp. Class A Ordinary Shares,NASDAQ,35201010,Biotechnology,625735488.0,1393364.5386783283,small_cap,False,False,EDGAR,2026-03-19
+LBRX,LB Pharmaceuticals Inc Common Stock,NASDAQ,35202010,Pharmaceuticals,601106688.0,5658182.706104279,small_cap,False,False,EDGAR,2026-03-19
+ZURA,Zura Bio Limited Class A Ordinary Shares,NASDAQ,35201010,Biotechnology,568335424.0,3335913.942746798,small_cap,False,False,EDGAR,2026-03-19
+VOR,Vor Biopharma Inc. Common Stock,NASDAQ,35201010,Biotechnology,539757952.0,9711394.776404317,small_cap,False,False,EDGAR,2026-03-19
+ETON,"Eton Pharmaceuticals, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,510069536.0,5308702.6306020105,small_cap,False,False,EDGAR,2026-03-19
+CRMD,CorMedix Inc. Common Stock,NASDAQ,35202010,Pharmaceuticals,503550976.0,11586739.030870883,small_cap,False,False,EDGAR,2026-03-19
+IMMX,"Immix Biopharma, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,500955520.0,6622519.595524343,small_cap,False,False,EDGAR,2026-03-19
+AQST,"Aquestive Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,490621088.0,9792404.92950309,small_cap,False,False,EDGAR,2026-03-19
+CLYM,"Climb Bio, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,485473152.0,4002088.507027181,small_cap,False,False,EDGAR,2026-03-19
+ENGN,enGene Holdings Inc. Common Stock,NASDAQ,35201010,Biotechnology,480984384.0,4026287.4403707343,small_cap,False,False,EDGAR,2026-03-19
+RLMD,"Relmada Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,455401792.0,14867341.487906361,small_cap,False,False,EDGAR,2026-03-19
+EPRX,Eupraxia Pharmaceuticals Inc. Common Stock,NASDAQ,35202010,Pharmaceuticals,439188672.0,2179112.6171443937,small_cap,False,False,EDGAR,2026-03-19
+ASMB,"Assembly Biosciences, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,435287712.0,2717538.0073525747,small_cap,False,False,EDGAR,2026-03-19
+STTK,"Shattuck Labs, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,432247872.0,2708958.9113785424,small_cap,False,False,EDGAR,2026-03-19
+CGC,Canopy Growth Corporation Common Shares,NASDAQ,35202010,Pharmaceuticals,424350720.0,10326354.227933249,small_cap,False,False,EDGAR,2026-03-19
+IPSC,"Century Therapeutics, Inc. Common Stock",NASDAQ,35201010,Biotechnology,413362336.0,2507513.8627263703,small_cap,False,False,EDGAR,2026-03-19
+CYRX,"CryoPort, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,406559488.0,3414140.794201565,small_cap,False,False,EDGAR,2026-03-19
+NATR,"Nature's Sunshine Products, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,402674976.0,3500256.7851720173,small_cap,False,False,EDGAR,2026-03-19
+BNTC,Benitec Biopharma Inc. Common Stock,NASDAQ,35202010,Pharmaceuticals,400097344.0,2144264.6311805723,small_cap,False,False,EDGAR,2026-03-19
+VACH,Voyager Acquisition Corp Class A Ordinary Shares,NASDAQ,35201010,Biotechnology,394680000.0,1820556.11089681,small_cap,False,False,EDGAR,2026-03-19
+MNPR,Monopar Therapeutics Inc. Common Stock,NASDAQ,35202010,Pharmaceuticals,389594656.0,12769487.72655487,small_cap,False,False,EDGAR,2026-03-19
+DMAC,DiaMedica Therapeutics Inc. Common Stock,NASDAQ,35202010,Pharmaceuticals,370791360.0,1533376.4757750193,small_cap,False,False,EDGAR,2026-03-19
+GLSI,"Greenwich LifeSciences, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,370054720.0,5119826.55860672,small_cap,False,False,EDGAR,2026-03-19
+NAGE,"Niagen Bioscience, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,364366240.0,7963771.111818441,small_cap,False,False,EDGAR,2026-03-19
+SNDL,SNDL Inc. Common Shares,NASDAQ,35202010,Pharmaceuticals,357703936.0,1842784.2944561164,small_cap,False,False,EDGAR,2026-03-19
+STRO,"Sutro Biopharma, Inc. Common Stock",NASDAQ,35201010,Biotechnology,357007712.0,3011936.869713847,small_cap,False,False,EDGAR,2026-03-19
+XFOR,"X4 Pharmaceuticals, Inc. Common Stock",NASDAQ,35201010,Biotechnology,354118592.0,2203673.112348588,small_cap,False,False,EDGAR,2026-03-19
+SIGA,SIGA Technologies Inc. Common Stock,NASDAQ,35202010,Pharmaceuticals,348191808.0,3561427.706596804,small_cap,False,False,EDGAR,2026-03-19
+XOMA,XOMA Royalty Corporation Common Stock,NASDAQ,35202010,Pharmaceuticals,338677888.0,4069054.5781074525,small_cap,False,False,EDGAR,2026-03-19
+NERV,"Minerva Neurosciences, Inc Common Stock",NASDAQ,35202010,Pharmaceuticals,336674848.0,1375499.7672481379,small_cap,False,False,EDGAR,2026-03-19
+IRD,"Opus Genetics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,325708384.0,4936130.510807387,small_cap,False,False,EDGAR,2026-03-19
+CBIO,"Crescent Biopharma, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,315124064.0,2138340.3807668686,small_cap,False,False,EDGAR,2026-03-19
+EOLS,"Evolus, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,314239744.0,6585933.229313469,small_cap,False,False,EDGAR,2026-03-19
+USNA,USANA Health Sciences Inc,NYSE,35202010,Pharmaceuticals,312419840.0,2748409.956332779,small_cap,False,False,EDGAR,2026-03-19
+FBRX,"Forte Biosciences, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,311294336.0,5482804.529036331,small_cap,False,False,EDGAR,2026-03-19
+AMRN,Amarin Corporation plc,NASDAQ,35202010,Pharmaceuticals,310811104.0,1301995.334631602,small_cap,False,False,EDGAR,2026-03-19
+ORGO,Organogenesis Holdings Inc. Class A Common Stock,NASDAQ,35202010,Pharmaceuticals,308737632.0,2232234.909156879,small_cap,False,False,EDGAR,2026-03-19
+PBYI,Puma Biotechnology Inc Common Stock,NASDAQ,35202010,Pharmaceuticals,305258944.0,2944459.191530609,small_cap,False,False,EDGAR,2026-03-19
+PALI,"Palisade Bio, Inc. Common Stock",NASDAQ,35201010,Biotechnology,293930336.0,5934414.761791118,micro_cap,False,False,EDGAR,2026-03-19
+TARA,"Protara Therapeutics, Inc. Common Stock",NASDAQ,35201010,Biotechnology,285024672.0,6850750.560544538,micro_cap,False,False,EDGAR,2026-03-19
+ALXO,ALX Oncology Holdings Inc. Common Stock,NASDAQ,35202010,Pharmaceuticals,282957824.0,1939366.348875936,micro_cap,False,False,EDGAR,2026-03-19
+CAMP,CAMP4 Therapeutics Corporation Common Stock,NASDAQ,35202010,Pharmaceuticals,276526464.0,1687029.4324280422,micro_cap,False,False,EDGAR,2026-03-19
+ANL,Adlai Nortye Ltd. American Depositary Shares,NASDAQ,35202010,Pharmaceuticals,273430976.0,2431032.1119143805,micro_cap,False,False,EDGAR,2026-03-19
+AVTX,"Avalo Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,271767264.0,8806935.157553483,micro_cap,False,False,EDGAR,2026-03-19
+CNTX,Context Therapeutics Inc. Common Stock,NASDAQ,35202010,Pharmaceuticals,268287200.0,2984917.645172405,micro_cap,False,False,EDGAR,2026-03-19
+TENX,"Tenax Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,267680816.0,4350421.1985349655,micro_cap,False,False,EDGAR,2026-03-19
+FENC,Fennec Pharmaceuticals Inc. Common Stock,NASDAQ,35201010,Biotechnology,255126608.0,1058999.6610546112,micro_cap,False,False,EDGAR,2026-03-19
+ABEO,Abeona Therapeutics Inc. Common Stock,NASDAQ,35202010,Pharmaceuticals,246570704.0,6236556.491310151,micro_cap,False,False,EDGAR,2026-03-19
+ELDN,"Eledon Pharmaceuticals, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,238890880.0,2706147.724162483,micro_cap,False,False,EDGAR,2026-03-19
+HELP,Cybin Inc. Common Stock,NASDAQ,35202010,Pharmaceuticals,236997120.0,6371771.383003807,micro_cap,False,False,EDGAR,2026-03-19
+CHRS,"Coherus Oncology, Inc. Common Stock",NASDAQ,35201010,Biotechnology,236826048.0,3163221.996120596,micro_cap,False,False,EDGAR,2026-03-19
+KALA,"KALA BIO, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,230110880.0,4247011.445323029,micro_cap,False,False,EDGAR,2026-03-19
+ALEC,"Alector, Inc. Common Stock",NASDAQ,35201010,Biotechnology,226243296.0,1892062.7349557083,micro_cap,False,False,EDGAR,2026-03-19
+IKT,"Inhibikase Therapeutics, Inc. Common Stock",NASDAQ,35201010,Biotechnology,221918704.0,4900466.972789629,micro_cap,False,False,EDGAR,2026-03-19
+SRZN,"Surrozen, Inc. Common Stock",NASDAQ,35201010,Biotechnology,220114096.0,2307888.4959228514,micro_cap,False,False,EDGAR,2026-03-19
+MDWD,MediWound Ltd. Ordinary Shares,NASDAQ,35202010,Pharmaceuticals,218376288.0,1401081.0474235534,micro_cap,False,False,EDGAR,2026-03-19
+ACHV,"Achieve Life Sciences, Inc. Common Shares",NASDAQ,35203010,Life Science Tools & Services,215065312.0,1654892.7817160606,micro_cap,False,False,EDGAR,2026-03-19
+SLGL,Sol-Gel Technologies Ltd. Ordinary Shares,NASDAQ,35202010,Pharmaceuticals,209881184.0,2222919.424799601,micro_cap,False,False,EDGAR,2026-03-19
+ELTX,"Elicio Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,201581056.0,1728810.9486529669,micro_cap,False,False,EDGAR,2026-03-19
+ACB,Aurora Cannabis Inc. Common Shares,NASDAQ,35202010,Pharmaceuticals,196214608.0,2934000.1782484055,micro_cap,False,False,EDGAR,2026-03-19
+TNXP,Tonix Pharmaceuticals Holding Corp. Common Stock,NASDAQ,35202010,Pharmaceuticals,190222640.0,4778306.864025688,micro_cap,False,False,EDGAR,2026-03-19
+MGNX,"MacroGenics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,189396400.0,3545895.0909579275,micro_cap,False,False,EDGAR,2026-03-19
+PLX,"Protalix BioTherapeutics, Inc. Common Stock",AMEX,35201010,Biotechnology,177730816.0,4288562.472147496,micro_cap,False,False,EDGAR,2026-03-19
+ABOS,"Acumen Pharmaceuticals, Inc. Common Stock",NASDAQ,35201010,Biotechnology,176874400.0,2033142.9563389143,micro_cap,False,False,EDGAR,2026-03-19
+SABS,"SAB Biotherapeutics, Inc. Common Stock",NASDAQ,35201010,Biotechnology,176145360.0,2515588.296428919,micro_cap,False,False,EDGAR,2026-03-19
+DTIL,"Precision BioSciences, Inc. Common Stock",NASDAQ,35201010,Biotechnology,173828672.0,1477377.2825371742,micro_cap,False,False,EDGAR,2026-03-19
+RNAC,"Cartesian Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,172923984.0,1897994.456999588,micro_cap,False,False,EDGAR,2026-03-19
+OVID,Ovid Therapeutics Inc. Common Stock,NASDAQ,35202010,Pharmaceuticals,163788400.0,5888774.317152977,micro_cap,False,False,EDGAR,2026-03-19
+ZNTL,"Zentalis Pharmaceuticals, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,162848224.0,1674279.4371726115,micro_cap,False,False,EDGAR,2026-03-19
+NKTX,"Nkarta, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,159106112.0,1646921.3402810653,micro_cap,False,False,EDGAR,2026-03-19
+CRBP,"Corbus Pharmaceuticals Holdings, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,158854976.0,1702202.4568232854,micro_cap,False,False,EDGAR,2026-03-19
+HRTX,"Heron Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,158371184.0,2058023.1885709306,micro_cap,False,False,EDGAR,2026-03-19
+LFCR,"Lifecore Biomedical, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,155485360.0,1519689.51404109,micro_cap,False,False,EDGAR,2026-03-19
+KPTI,Karyopharm Therapeutics Inc. Common Stock,NASDAQ,35202010,Pharmaceuticals,154089328.0,6395849.471552086,micro_cap,False,False,EDGAR,2026-03-19
+IMUX,"Immunic, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,150034544.0,5375342.141242365,micro_cap,False,False,EDGAR,2026-03-19
+RANI,"Rani Therapeutics Holdings, Inc. Class A Common Stock",NASDAQ,35202010,Pharmaceuticals,145948192.0,1165264.9973876,micro_cap,False,False,EDGAR,2026-03-19
+UNCY,"Unicycive Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,145281840.0,3184979.8867727914,micro_cap,False,False,EDGAR,2026-03-19
+MIST,Milestone Pharmaceuticals Inc. Common Shares,NASDAQ,35202010,Pharmaceuticals,144787888.0,2510152.8674096586,micro_cap,False,False,EDGAR,2026-03-19
+VTVT,vTv Therapeutics Inc. Class A Common Stock,NASDAQ,35202010,Pharmaceuticals,142950048.0,1854620.4677752177,micro_cap,False,False,EDGAR,2026-03-19
+CNTN,"Canton Strategic Holdings, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,138552128.0,3372640.2766756695,micro_cap,False,False,EDGAR,2026-03-19
+AGEN,Agenus Inc. Common Stock,NASDAQ,35201010,Biotechnology,135892720.0,1616631.4788671494,micro_cap,False,False,EDGAR,2026-03-19
+SGMO,"Sangamo Therapeutics, Inc. Common Stock",NASDAQ,35201010,Biotechnology,133806520.0,2144833.187599452,micro_cap,False,False,EDGAR,2026-03-19
+EQ,"Equillium, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,129702704.0,1116367.027451229,micro_cap,False,False,EDGAR,2026-03-19
+ANTX,"AN2 Therapeutics, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,126597344.0,12592834.023490937,micro_cap,False,False,EDGAR,2026-03-19
+CRDF,"Cardiff Oncology, Inc. Common Stock",NASDAQ,35201010,Biotechnology,123740600.0,1322729.4308613937,micro_cap,False,False,EDGAR,2026-03-19
+FATE,"Fate Therapeutics, Inc. Common Stock",NASDAQ,35201010,Biotechnology,123239256.0,2098219.7944882554,micro_cap,False,False,EDGAR,2026-03-19
+SAVA,"Cassava Sciences, Inc.",NASDAQ,35202010,Pharmaceuticals,114972800.0,1197572.1476554314,micro_cap,False,False,EDGAR,2026-03-19
+INO,"Inovio Pharmaceuticals, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,114534432.0,1480724.351838847,micro_cap,False,False,EDGAR,2026-03-19
+KRRO,"Korro Bio, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,113194544.0,2632062.602454758,micro_cap,False,False,EDGAR,2026-03-19
+HURA,"TuHURA Biosciences, Inc. Common Stock",NASDAQ,35202010,Pharmaceuticals,106178800.0,2915980.378954613,micro_cap,False,False,EDGAR,2026-03-19
+ONCY,"Oncolytics Biotech, Inc. Common Shares",NASDAQ,35202010,Pharmaceuticals,103355928.0,1554890.3094765185,micro_cap,False,False,EDGAR,2026-03-19
