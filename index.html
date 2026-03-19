@@ -692,10 +692,10 @@ body::after{
         <!-- Simulated Sharpe -->
         <div class="card">
           <div class="card-title">Simulated Sharpe</div>
-          <div class="val xl cyan" style="margin-top:4px" id="ov-sharpe">4.83</div>
+          <div class="val xl cyan" style="margin-top:4px" id="ov-sharpe">2.46</div>
           <div class="sub">Jan 2023 → Mar 2026</div>
           <div style="margin-top:12px;display:grid;grid-template-columns:1fr 1fr;gap:8px">
-            <div><div class="lbl">Ann Return</div><div style="font-size:14px;font-weight:600;color:var(--cyan)" id="ov-ann">231.0%</div></div>
+            <div><div class="lbl">Ann Return</div><div style="font-size:14px;font-weight:600;color:var(--cyan)" id="ov-ann">77.7%</div></div>
             <div><div class="lbl">Max DD</div><div style="font-size:14px;font-weight:600;color:var(--red)" id="ov-dd">−19.6%</div></div>
             <div><div class="lbl">Hit Rate</div><div style="font-size:14px;font-weight:600;color:var(--t1)" id="ov-hit">66.7%</div></div>
             <div><div class="lbl">Rebalances</div><div style="font-size:14px;font-weight:600;color:var(--t1)" id="ov-nreb">83</div></div>
@@ -960,7 +960,7 @@ body::after{
             </div>
             <div>
               <div style="font-size:9px;letter-spacing:1.5px;color:var(--t4);margin-bottom:6px">DATA SOURCE</div>
-              <div style="font-size:13px;font-weight:600;color:var(--t1)">Massive.com · yFinance</div>
+              <div style="font-size:13px;font-weight:600;color:var(--t1)">Massive.com · Alpaca</div>
             </div>
             <div>
               <div style="font-size:9px;letter-spacing:1.5px;color:var(--t4);margin-bottom:6px">MIN MARKET CAP</div>
@@ -1280,8 +1280,8 @@ body::after{
               <div style="font-family:'Outfit',sans-serif;font-size:11px;color:var(--t3);line-height:1.7">CYTOKINE·Gate is monitored daily. A regime shift since the last rebalance triggers immediate portfolio review.</div>
             </div>
             <div>
-              <div style="font-size:10px;font-weight:600;color:var(--t2);margin-bottom:4px">No Stop Losses</div>
-              <div style="font-family:'Outfit',sans-serif;font-size:11px;color:var(--t3);line-height:1.7">Stop losses are not applied. Research showed they reduce risk-adjusted returns on this signal set. The bi-weekly rebalance cadence serves as the primary position exit mechanism.</div>
+              <div style="font-size:10px;font-weight:600;color:var(--t2);margin-bottom:4px">Stop Loss: -30% Per Position</div>
+              <div style="font-family:'Outfit',sans-serif;font-size:11px;color:var(--t3);line-height:1.7">Active -30% stop loss per position, checked daily (NB13) and at rebalance (NB12). Research (NB_R29) showed this improves Sharpe by +0.10 and MaxDD by +2.3pp, triggering on only 4.4% of positions.</div>
             </div>
           </div>
         </div>
@@ -1336,10 +1336,10 @@ body::after{
 
       <!-- Headline metrics -->
       <div class="g-auto mb16" style="grid-template-columns:repeat(6,1fr)">
-        <div class="card"><div class="card-top-bar" style="background:var(--cyan)"></div><div class="lbl">Sharpe Ratio</div><div class="val xl cyan" id="tr-sharpe">4.83</div><div class="sub">After TC · 10bps/side</div></div>
-        <div class="card"><div class="lbl">Ann. Return</div><div class="val xl" id="tr-ann">231%</div><div class="sub">After TC</div></div>
+        <div class="card"><div class="card-top-bar" style="background:var(--cyan)"></div><div class="lbl">Sharpe Ratio</div><div class="val xl cyan" id="tr-sharpe">2.46</div><div class="sub">After TC · 10bps/side</div></div>
+        <div class="card"><div class="lbl">Ann. Return</div><div class="val xl" id="tr-ann">77.7%</div><div class="sub">After TC</div></div>
         <div class="card"><div class="card-top-bar" style="background:var(--red)"></div><div class="lbl">Max Drawdown</div><div class="val xl red" id="tr-dd">−20%</div><div class="sub">Peak-to-trough</div></div>
-        <div class="card"><div class="lbl">Beta vs XBI</div><div class="val xl" id="tr-beta-xbi">0.95</div><div class="sub">Market sensitivity</div></div>
+        <div class="card"><div class="lbl">Beta vs XBI</div><div class="val xl" id="tr-beta-xbi">0.61</div><div class="sub">Market sensitivity</div></div>
         <div class="card"><div class="lbl">Beta vs SPY</div><div class="val xl" id="tr-beta-spy">—</div><div class="sub">Market sensitivity</div></div>
         <div class="card"><div class="lbl">Hit Rate</div><div class="val xl" id="tr-hit">66.7%</div><div class="sub" id="tr-nreb">83 rebalances</div></div>
       </div>
@@ -1358,7 +1358,7 @@ body::after{
                 <th>Strategy</th><th>Ann. Return</th><th>Sharpe</th><th>Max DD</th><th>Beta XBI</th><th>Beta SPY</th><th>Hit Rate</th>
               </tr></thead>
               <tbody id="tr-bench-body">
-                <tr class="epi"><td>EPITOPE (after TC)</td><td id="tr-b-ret">231.0%</td><td id="tr-b-sharpe">4.834</td><td id="tr-b-dd">-19.6%</td><td id="tr-b-betaxbi">0.95</td><td id="tr-b-betaspy">—</td><td id="tr-b-hit">66.7%</td></tr>
+                <tr class="epi"><td>EPITOPE (after TC)</td><td id="tr-b-ret">77.7%</td><td id="tr-b-sharpe">2.460</td><td id="tr-b-dd">-34.2%</td><td id="tr-b-betaxbi">0.61</td><td id="tr-b-betaspy">—</td><td id="tr-b-hit">66.7%</td></tr>
                 <tr><td style="color:var(--t3)">EPITOPE (before TC)</td><td style="color:rgba(0,255,180,0.5)" id="tr-b-ret2">248.9%</td><td style="color:rgba(0,255,180,0.5)" id="tr-b-sharpe2">5.216</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
                 <tr><td style="color:var(--t3)">XBI — Biotech ETF</td><td id="tr-b-xbi-ret">—</td><td id="tr-b-xbi-sharpe">—</td><td id="tr-b-xbi-dd">—</td><td>1.00</td><td>—</td><td>—</td></tr>
                 <tr><td style="color:var(--t3)">SPY — S&amp;P 500</td><td id="tr-b-spy-ret">—</td><td id="tr-b-spy-sharpe">—</td><td id="tr-b-spy-dd">—</td><td>—</td><td>1.00</td><td>—</td></tr>
@@ -1497,7 +1497,7 @@ const SAMPLE = {
   m:{portfolio_value:100000,total_pl:0,total_return_pct:0,long_positions:0,n_alerts:0,n_drift_alerts:0,n_regime_alerts:0,n_squeeze_alerts:0,regime:"Neutral",regime_score:-0.7044,live_score:"3/5",weeks_live:0,positions:[]},
   r:{date:"2026-03-15",regime:"Neutral",composite_score:-0.7044,hmm_state:0,position_gate:0.5,position_scale_soft:0.5,position_scale_passthru:0,pca_explained_variance:[0.4818,0.1874,0.0989],hmm_converged:true,pc6_value:0.4481,pc6_gate:1.0,z1_mixed_s:-0.8419,z2_rates_s:-1.6823,z3_inflation_s:0.9664,state_profiles:{"0":{regime:"Neutral",gate:0.5,hist_pct:0.197,z1_mean:-0.127,z2_mean:-0.557,z3_mean:0.172,spy_mean_daily_ret:-0.0014},"1":{regime:"Strong Bull",gate:1.0,hist_pct:0.315,z1_mean:0.380,z2_mean:-0.052,z3_mean:0.064,spy_mean_daily_ret:0.0028},"2":{regime:"Mild Bull",gate:1.0,hist_pct:0.249,z1_mean:0.118,z2_mean:0.377,z3_mean:0.051,spy_mean_daily_ret:0.0016},"3":{regime:"Bear",gate:0.0,hist_pct:0.240,z1_mean:-0.511,z2_mean:0.141,z3_mean:-0.277,spy_mean_daily_ret:-0.0025}}},
   p:{last_rebalance:"2026-03-15",regime:"Neutral",n_long:20,capital_deployed_A:48838,position_gate:0.5,pc6_value:0.4481,stop_loss_pct:null},
-  b:{bt_start:"2023-01-01",bt_end:"2026-03-15",n_rebalances:83,sharpe_tc:4.834,sharpe_no_tc:5.216,ann_return_tc:2.3101,ann_return_no_tc:2.4894,max_drawdown:-0.1959,beta:0.951,hit_rate:0.667,months:["2023-01","2023-02","2023-03","2023-04","2023-05","2023-06","2023-07","2023-08","2023-09","2023-10","2023-11","2023-12","2024-01","2024-02","2024-03","2024-04","2024-05","2024-06","2024-07","2024-08","2024-09","2024-10","2024-11","2024-12","2025-01","2025-02","2025-03","2025-04","2025-05","2025-06","2025-07","2025-08","2025-09","2025-10","2025-11","2025-12","2026-01","2026-02","2026-03"],strategy_equity:[124.41,117.95,121.5,133.88,141.01,135.23,165.94,164.69,164.33,157.74,163.46,225.55,222.02,312.95,325.96,323.75,324.68,321.16,403.89,439.9,465.2,530.24,548.03,543.96,516.39,593.61,562.04,650.36,588.78,677.98,1092.31,1332.94,1818.91,2676.32,2851.79,3327.02,4508.55,4538.33,4344.15],xbi_equity:[109.04,101.62,93.47,98.37,102.93,102.05,103.39,97.15,89.57,81.24,92.63,109.54,107.26,120.74,116.41,103.81,109.34,113.88,121.68,124.38,121.38,119.2,122.38,110.64,113.85,108.98,99.64,101.91,97.29,101.9,105.25,110.4,123.15,138.53,151.37,150.35,153.83,157.06,152.78],spy_equity:[106.74,104.05,107.91,109.64,110.14,117.28,121.12,119.15,113.5,111.03,121.18,126.71,128.73,135.45,139.87,134.23,141.02,146,147.77,151.22,154.4,153.02,162.14,158.24,162.49,160.43,151.49,150.18,159.62,167.82,171.68,175.21,181.45,185.77,186.13,186.28,189.03,187.39,186.12]}
+  b:{bt_start:"2023-01-04",bt_end:"2026-03-18",n_rebalances:84,sharpe_tc:2.46,sharpe_no_tc:2.77,ann_return_tc:0.777,ann_return_no_tc:0.873,max_drawdown:-0.342,calmar:2.27,beta:0.61,hit_rate:0.667,n_stop_losses:88,months:["2023-01","2023-02","2023-03","2023-04","2023-05","2023-06","2023-07","2023-08","2023-09","2023-10","2023-11","2023-12","2024-01","2024-02","2024-03","2024-04","2024-05","2024-06","2024-07","2024-08","2024-09","2024-10","2024-11","2024-12","2025-01","2025-02","2025-03","2025-04","2025-05","2025-06","2025-07","2025-08","2025-09","2025-10","2025-11","2025-12","2026-01","2026-02","2026-03"],strategy_equity:[124.41,117.95,121.5,133.88,141.01,135.23,165.94,164.69,164.33,157.74,163.46,225.55,222.02,312.95,325.96,323.75,324.68,321.16,403.89,439.9,465.2,530.24,548.03,543.96,516.39,593.61,562.04,650.36,588.78,677.98,1092.31,1332.94,1818.91,2676.32,2851.79,3327.02,4508.55,4538.33,4344.15],xbi_equity:[109.04,101.62,93.47,98.37,102.93,102.05,103.39,97.15,89.57,81.24,92.63,109.54,107.26,120.74,116.41,103.81,109.34,113.88,121.68,124.38,121.38,119.2,122.38,110.64,113.85,108.98,99.64,101.91,97.29,101.9,105.25,110.4,123.15,138.53,151.37,150.35,153.83,157.06,152.78],spy_equity:[106.74,104.05,107.91,109.64,110.14,117.28,121.12,119.15,113.5,111.03,121.18,126.71,128.73,135.45,139.87,134.23,141.02,146,147.77,151.22,154.4,153.02,162.14,158.24,162.49,160.43,151.49,150.18,159.62,167.82,171.68,175.21,181.45,185.77,186.13,186.28,189.03,187.39,186.12]}
 };
 window.D={};
 const $=id=>document.getElementById(id);
@@ -3114,10 +3114,10 @@ function initParticles(){
   // Stage bands (horizontal strips)
   const bands=[
     {y:0.00,h:0.14,label:'1 · ANTIGEN·Capture',sub:'427 tickers',col:[96,220,255]},
-    {y:0.14,h:0.18,label:'2 · ANTIBODY·Bind',sub:'427 signals',col:[0,255,180]},
-    {y:0.32,h:0.20,label:'3 · AFFINITY·Score',sub:'20 selected',col:[96,144,255]},
-    {y:0.52,h:0.18,label:'4 · CYTOKINE·Gate',sub:'gate 50%',col:[255,200,40]},
-    {y:0.70,h:0.30,label:'5 · CASCADE·Execute',sub:'BUY 20',col:[176,106,255]},
+    {y:0.14,h:0.18,label:'2 · ANTIBODY·Bind',sub:'427 signals',col:[10,143,106]},
+    {y:0.32,h:0.20,label:'3 · AFFINITY·Score',sub:'20 selected',col:[48,96,204]},
+    {y:0.52,h:0.18,label:'4 · CYTOKINE·Gate',sub:'gate 50%',col:[196,136,0]},
+    {y:0.70,h:0.30,label:'5 · CASCADE·Execute',sub:'BUY 20',col:[130,70,200]},
   ];
 
   // Build ticker pool from real data
