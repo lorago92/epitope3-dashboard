@@ -1,14 +1,14 @@
 {
-  "date": "2026-03-18",
+  "date": "2026-03-19",
   "regime": "Neutral",
-  "composite_score": -0.7147,
-  "hmm_state": 0,
+  "composite_score": 0.5928,
+  "hmm_state": 2,
   "position_gate": 0.5,
   "position_scale_soft": 0.5,
-  "position_scale_passthru": 0.0,
+  "position_scale_passthru": 0.5928,
   "pca_explained_variance": [
-    0.4817,
-    0.1874,
+    0.4816,
+    0.1873,
     0.0989
   ],
   "hmm_converged": true,
@@ -17,43 +17,43 @@
   "pc6_gate": 1.0,
   "state_profiles": {
     "0": {
-      "regime": "Neutral",
-      "gate": 0.5,
-      "hist_pct": 0.1815,
-      "z1_mean": -0.18,
-      "z2_mean": -0.6012,
-      "z3_mean": 0.134,
-      "spy_mean_daily_ret": -0.002046
-    },
-    "1": {
-      "regime": "Mild Bull",
-      "gate": 1.0,
-      "hist_pct": 0.2738,
-      "z1_mean": 0.1817,
-      "z2_mean": 0.3807,
-      "z3_mean": -0.1144,
-      "spy_mean_daily_ret": 0.002007
-    },
-    "2": {
-      "regime": "Strong Bull",
-      "gate": 1.0,
-      "hist_pct": 0.3187,
-      "z1_mean": 0.4064,
-      "z2_mean": -0.0589,
-      "z3_mean": 0.0569,
-      "spy_mean_daily_ret": 0.002914
-    },
-    "3": {
       "regime": "Bear",
       "gate": 0.0,
-      "hist_pct": 0.226,
-      "z1_mean": -0.6464,
-      "z2_mean": 0.1128,
-      "z3_mean": -0.0498,
-      "spy_mean_daily_ret": -0.003148
+      "hist_pct": 0.1811,
+      "z1_mean": 0.8026,
+      "z2_mean": -0.1239,
+      "z3_mean": 0.1059,
+      "spy_mean_daily_ret": -0.004899
+    },
+    "1": {
+      "regime": "Strong Bull",
+      "gate": 1.0,
+      "hist_pct": 0.3382,
+      "z1_mean": -0.5198,
+      "z2_mean": -0.0967,
+      "z3_mean": -0.0459,
+      "spy_mean_daily_ret": 0.003694
+    },
+    "2": {
+      "regime": "Neutral",
+      "gate": 0.5,
+      "hist_pct": 0.1663,
+      "z1_mean": 0.1499,
+      "z2_mean": 0.6107,
+      "z3_mean": -0.1426,
+      "spy_mean_daily_ret": -0.0016
+    },
+    "3": {
+      "regime": "Mild Bull",
+      "gate": 1.0,
+      "hist_pct": 0.3144,
+      "z1_mean": 0.0045,
+      "z2_mean": -0.155,
+      "z3_mean": 0.0643,
+      "spy_mean_daily_ret": 0.000951
     }
   },
-  "z1_mixed_s": -0.7768,
-  "z2_rates_s": -1.0454,
-  "z3_inflation_s": 0.5999
+  "z1_mixed_s": 0.7285,
+  "z2_rates_s": 0.7548,
+  "z3_inflation_s": -0.332
 }
