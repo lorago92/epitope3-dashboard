@@ -2134,7 +2134,7 @@ async function renderSignals(r){
       if(lbl==='Bear') return 'var(--red)';
       if(lbl==='Neutral') return 'var(--amber)';
       if(lbl==='Mild Bull') return 'var(--cyan)';
-      if(lbl==='Strong Bull') return '#00ffcc';
+      if(lbl==='Strong Bull') return '#0a8f6a';
       return 'var(--t2)';
     };
 
@@ -2464,14 +2464,15 @@ async function renderSignals(r){
         rows.slice(1).forEach(r=>{
           const c=r.split(',');
           if(c[dateIdx]&&c[compIdx]&&c[regimeIdx]){
+            const score=parseFloat(c[compIdx]);
             dates.push(c[dateIdx].trim());
-            scores.push(parseFloat(c[compIdx]));
+            scores.push(isNaN(score)?null:score);
             regimes.push(c[regimeIdx].trim());
           }
         });
         if(dates.length>0 && window.Plotly){
-          const regimeFill={'Strong Bull':'rgba(0,255,180,0.07)','Mild Bull':'rgba(0,255,180,0.04)','Neutral':'rgba(255,200,40,0.06)','Bear':'rgba(255,50,80,0.06)','Bull':'rgba(0,255,180,0.06)'};
-          const regimeCol={'Strong Bull':'#00ffcc','Mild Bull':'#00ffb4','Neutral':'#ffc828','Bear':'#ff3250','Bull':'#00ffb4'};
+          const regimeFill={'Strong Bull':'rgba(10,143,106,0.07)','Mild Bull':'rgba(10,143,106,0.04)','Neutral':'rgba(196,136,0,0.06)','Bear':'rgba(212,32,64,0.06)','Bull':'rgba(10,143,106,0.06)'};
+          const regimeCol={'Strong Bull':'#0a8f6a','Mild Bull':'#0cb577','Neutral':'#c48800','Bear':'#d42040','Bull':'#0a8f6a'};
           const shapes=[];
           let segStart=0, segRegime=regimes[0];
           for(let i=1;i<=regimes.length;i++){
@@ -2484,7 +2485,7 @@ async function renderSignals(r){
           set('pl-regime-chart','');
           $('pl-regime-chart').style.cssText='height:160px';
           Plotly.newPlot('pl-regime-chart',[
-            {x:dates,y:scores,type:'scatter',mode:'lines',line:{color:'rgba(150,160,220,0.6)',width:1.5},fill:'tozeroy',fillcolor:'rgba(96,144,255,0.04)',hovertemplate:'%{x}<br>Score: %{y:.4f}<extra></extra>'},
+            {x:dates,y:scores,type:'scatter',mode:'lines',connectgaps:false,line:{color:'rgba(100,120,170,0.5)',width:1.5},fill:'tozeroy',fillcolor:'rgba(48,96,204,0.04)',hovertemplate:'%{x}<br>Score: %{y:.4f}<extra></extra>'},
             ...allRegimes.map(reg=>({
               x:dates.filter((_,i)=>regimes[i]===reg),
               y:scores.filter((_,i)=>regimes[i]===reg),
@@ -2496,11 +2497,11 @@ async function renderSignals(r){
             paper_bgcolor:'transparent',plot_bgcolor:'rgba(248,249,252,0.5)',
             margin:{l:44,r:10,t:4,b:30},
             font:{family:'JetBrains Mono',size:8,color:'rgba(80,90,110,0.45)'},
-            xaxis:{gridcolor:'rgba(50,70,130,0.08)',linecolor:'rgba(50,70,130,0.15)',tickfont:{size:8}},
-            yaxis:{gridcolor:'rgba(50,70,130,0.08)',linecolor:'rgba(50,70,130,0.15)',tickfont:{size:8},zeroline:true,zerolinecolor:'rgba(255,255,255,0.08)',zerolinewidth:1},
+            xaxis:{gridcolor:'rgba(200,210,230,0.3)',linecolor:'rgba(200,210,230,0.5)',tickfont:{size:8}},
+            yaxis:{gridcolor:'rgba(200,210,230,0.3)',linecolor:'rgba(200,210,230,0.5)',tickfont:{size:8},zeroline:true,zerolinecolor:'rgba(0,0,0,0.08)',zerolinewidth:1},
             shapes,showlegend:false,
             hovermode:'x unified',
-            hoverlabel:{bgcolor:'rgba(12,14,30,0.95)',bordercolor:'var(--amber)',font:{family:'JetBrains Mono',size:9}},
+            hoverlabel:{bgcolor:'rgba(255,255,255,0.95)',bordercolor:'var(--amber)',font:{family:'JetBrains Mono',size:9,color:'#1a1928'}},
           },{displayModeBar:false,responsive:true});
         }
       }
@@ -2635,11 +2636,11 @@ function renderTrack(b){
     yaxis:{gridcolor:'rgba(50,70,130,0.12)',linecolor:'rgba(50,70,130,0.2)',tickformat:',.0f',tickfont:{size:9},range:[0,stratMax]},
     legend:{bgcolor:'rgba(6,6,16,0.8)',bordercolor:'rgba(50,70,140,0.3)',borderwidth:1,font:{size:9},x:.01,y:.99},
     hovermode:'x unified',
-    hoverlabel:{bgcolor:'rgba(12,14,30,0.95)',bordercolor:'#00ffb4',font:{family:'JetBrains Mono',size:10,color:'rgba(220,230,255,0.92)'}},
+    hoverlabel:{bgcolor:'rgba(255,255,255,0.95)',bordercolor:'#0a8f6a',font:{family:'JetBrains Mono',size:10,color:'#1a1928'}},
   };
   Plotly.newPlot('eq-chart',[
     {x:b.months,y:b.strategy_equity,name:'EPITOPE',type:'scatter',mode:'lines',
-     line:{color:'#00ffb4',width:2.5},fill:'tozeroy',fillcolor:'rgba(0,255,180,0.04)'},
+     line:{color:'#0a8f6a',width:2.5},fill:'tozeroy',fillcolor:'rgba(10,143,106,0.04)'},
     {x:b.months,y:xbiNorm,name:'XBI',type:'scatter',mode:'lines',
      line:{color:'rgba(255,200,40,0.7)',width:1.5,dash:'dot'}},
     {x:b.months,y:spyNorm,name:'SPY',type:'scatter',mode:'lines',
@@ -2652,9 +2653,9 @@ function renderTrack(b){
 let _covAnim = null;
 
 const GICS_PALETTE = {
-  'Biotechnology':         '#00ffb4',
+  'Biotechnology':         '#0a8f6a',
   'Pharmaceuticals':       '#6090ff',
-  'Life Science Tools':    '#ffc828',
+  'Life Science Tools':    '#c48800',
   'Diagnostics':           '#ff6090',
   'Medical Devices':       '#b06aff',
   'Other':                 '#607090',
@@ -2685,7 +2686,7 @@ async function renderCoverage(){
   // Approximate breakdown (will be overridden by real CSV data if available)
   const tiers    = ['Small Cap<br>$100M–$1B', 'Mid Cap<br>$1B–$10B', 'Large Cap<br>≥$10B'];
   const cats     = ['Biotechnology','Pharmaceuticals','Life Science Tools','Diagnostics','Medical Devices','Other'];
-  const colors   = ['#00ffb4',      '#6090ff',        '#ffc828',           '#ff6090',    '#b06aff',         '#607090'];
+  const colors   = ['#0a8f6a',      '#3060cc',        '#c48800',           '#d44060',    '#8046c8',         '#607090'];
   // rows: [small, mid, large] counts per category
   const counts   = [
     [120, 42, 14],  // Biotechnology
@@ -3214,7 +3215,7 @@ function initParticles(){
     }
     if(closest){
       hoveredD=closest;
-      const ac=closest.isBuy?'#b06aff':closest.score>50?'#ffc828':'#607090';
+      const ac=closest.isBuy?'#8046c8':closest.score>50?'#c48800':'#607090';
       tip.innerHTML=`<span style="color:${ac};font-weight:700">${closest.ticker}</span> <span style="color:rgba(255,255,255,0.4)">#${closest.rank}</span><br><span style="color:rgba(255,255,255,0.5)">Signal</span> <span style="font-weight:600">${closest.score.toFixed(1)}</span>`;
       tip.style.display='block';
       tip.style.left=Math.min(closest.x+15,W-110)+'px';
