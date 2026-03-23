@@ -1,13 +1,13 @@
 {
   "date": "2026-03-23",
-  "portfolio_value": 96193.9,
-  "total_pl": -3806.100000000006,
-  "total_return_pct": -3.806100000000001,
-  "today_pl": 650.36,
-  "today_return_pct": 0.6807,
+  "portfolio_value": 96637.27,
+  "total_pl": -3362.729999999996,
+  "total_return_pct": -3.3627299999999916,
+  "today_pl": 1093.73,
+  "today_return_pct": 1.1447,
   "long_positions": 20,
   "short_positions": 0,
-  "total_long_pl": -3806.11,
+  "total_long_pl": -3362.7299999999996,
   "total_short_pl": 0.0,
   "n_alerts": 8,
   "n_drift_alerts": 8,
@@ -18,23 +18,23 @@
   "live_score": "3/5",
   "weeks_live": 0.42857142857142855,
   "cash": -401.67,
-  "long_market_value": 96595.57000000002,
+  "long_market_value": 97038.94000000002,
   "spy_price": 655.37,
-  "xbi_price": 121.765,
+  "xbi_price": 121.54,
   "spy_inception_price": 660.5,
   "xbi_inception_price": 122.2,
   "spy_return_pct": -0.7766843300529902,
-  "xbi_return_pct": -0.35597381342062917,
+  "xbi_return_pct": -0.5400981996726673,
   "positions": [
     {
       "ticker": "DMAC",
       "side": "long",
       "qty": 695.0,
       "avg_cost": 7.07,
-      "market_value": 5066.55,
-      "unrealized_pl": 152.9,
-      "current_price": 7.29,
-      "unrealized_plpc": 3.11
+      "market_value": 5143.0,
+      "unrealized_pl": 229.35,
+      "current_price": 7.4,
+      "unrealized_plpc": 4.67
     },
     {
       "ticker": "LFCR",
@@ -45,6 +45,16 @@
       "unrealized_pl": 12.09,
       "current_price": 4.05,
       "unrealized_plpc": 0.25
+    },
+    {
+      "ticker": "RANI",
+      "side": "long",
+      "qty": 4298.0,
+      "avg_cost": 1.16,
+      "market_value": 4985.68,
+      "unrealized_pl": 0.0,
+      "current_price": 1.16,
+      "unrealized_plpc": 0.0
     },
     {
       "ticker": "MRVI",
@@ -95,16 +105,6 @@
       "unrealized_pl": -80.96,
       "current_price": 27.75,
       "unrealized_plpc": -1.63
-    },
-    {
-      "ticker": "RANI",
-      "side": "long",
-      "qty": 4298.0,
-      "avg_cost": 1.16,
-      "market_value": 4899.72,
-      "unrealized_pl": -85.96,
-      "current_price": 1.14,
-      "unrealized_plpc": -1.72
     },
     {
       "ticker": "AUTL",
@@ -167,6 +167,16 @@
       "unrealized_plpc": -4.0
     },
     {
+      "ticker": "SGMO",
+      "side": "long",
+      "qty": 14092.0,
+      "avg_cost": 0.3499,
+      "market_value": 4720.82,
+      "unrealized_pl": -209.97,
+      "current_price": 0.335,
+      "unrealized_plpc": -4.26
+    },
+    {
       "ticker": "FBRX",
       "side": "long",
       "qty": 200.0,
@@ -197,16 +207,6 @@
       "unrealized_plpc": -6.52
     },
     {
-      "ticker": "SGMO",
-      "side": "long",
-      "qty": 14092.0,
-      "avg_cost": 0.3499,
-      "market_value": 4534.81,
-      "unrealized_pl": -395.99,
-      "current_price": 0.3218,
-      "unrealized_plpc": -8.03
-    },
-    {
       "ticker": "RLMD",
       "side": "long",
       "qty": 786.0,
@@ -221,10 +221,10 @@
       "side": "long",
       "qty": 633.0,
       "avg_cost": 7.99,
-      "market_value": 4234.77,
-      "unrealized_pl": -822.9,
-      "current_price": 6.69,
-      "unrealized_plpc": -16.27
+      "market_value": 4329.72,
+      "unrealized_pl": -727.95,
+      "current_price": 6.84,
+      "unrealized_plpc": -14.39
     }
   ]
 }
