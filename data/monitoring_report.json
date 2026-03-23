@@ -1,13 +1,13 @@
 {
   "date": "2026-03-23",
-  "portfolio_value": 96637.27,
-  "total_pl": -3362.729999999996,
-  "total_return_pct": -3.3627299999999916,
-  "today_pl": 1093.73,
-  "today_return_pct": 1.1447,
+  "portfolio_value": 96550.81,
+  "total_pl": -3449.1900000000023,
+  "total_return_pct": -3.449190000000002,
+  "today_pl": 1007.27,
+  "today_return_pct": 1.0543,
   "long_positions": 20,
   "short_positions": 0,
-  "total_long_pl": -3362.7299999999996,
+  "total_long_pl": -3449.1899999999996,
   "total_short_pl": 0.0,
   "n_alerts": 8,
   "n_drift_alerts": 8,
@@ -18,7 +18,7 @@
   "live_score": "3/5",
   "weeks_live": 0.42857142857142855,
   "cash": -401.67,
-  "long_market_value": 97038.94000000002,
+  "long_market_value": 96952.48000000003,
   "spy_price": 655.37,
   "xbi_price": 121.54,
   "spy_inception_price": 660.5,
@@ -45,16 +45,6 @@
       "unrealized_pl": 12.09,
       "current_price": 4.05,
       "unrealized_plpc": 0.25
-    },
-    {
-      "ticker": "RANI",
-      "side": "long",
-      "qty": 4298.0,
-      "avg_cost": 1.16,
-      "market_value": 4985.68,
-      "unrealized_pl": 0.0,
-      "current_price": 1.16,
-      "unrealized_plpc": 0.0
     },
     {
       "ticker": "MRVI",
@@ -87,6 +77,16 @@
       "unrealized_plpc": -1.21
     },
     {
+      "ticker": "AUTL",
+      "side": "long",
+      "qty": 3426.0,
+      "avg_cost": 1.44,
+      "market_value": 4864.92,
+      "unrealized_pl": -68.52,
+      "current_price": 1.42,
+      "unrealized_plpc": -1.39
+    },
+    {
       "ticker": "ZNTL",
       "side": "long",
       "qty": 1906.0,
@@ -107,14 +107,14 @@
       "unrealized_plpc": -1.63
     },
     {
-      "ticker": "AUTL",
+      "ticker": "RANI",
       "side": "long",
-      "qty": 3426.0,
-      "avg_cost": 1.44,
-      "market_value": 4830.66,
-      "unrealized_pl": -102.78,
-      "current_price": 1.41,
-      "unrealized_plpc": -2.08
+      "qty": 4298.0,
+      "avg_cost": 1.16,
+      "market_value": 4901.01,
+      "unrealized_pl": -84.67,
+      "current_price": 1.1403,
+      "unrealized_plpc": -1.7
     },
     {
       "ticker": "CGEM",
@@ -125,6 +125,16 @@
       "unrealized_pl": -130.9,
       "current_price": 12.84,
       "unrealized_plpc": -2.65
+    },
+    {
+      "ticker": "SGMO",
+      "side": "long",
+      "qty": 14092.0,
+      "avg_cost": 0.3499,
+      "market_value": 4791.28,
+      "unrealized_pl": -139.51,
+      "current_price": 0.34,
+      "unrealized_plpc": -2.83
     },
     {
       "ticker": "FULC",
@@ -167,24 +177,14 @@
       "unrealized_plpc": -4.0
     },
     {
-      "ticker": "SGMO",
-      "side": "long",
-      "qty": 14092.0,
-      "avg_cost": 0.3499,
-      "market_value": 4720.82,
-      "unrealized_pl": -209.97,
-      "current_price": 0.335,
-      "unrealized_plpc": -4.26
-    },
-    {
       "ticker": "FBRX",
       "side": "long",
       "qty": 200.0,
       "avg_cost": 27.25,
-      "market_value": 5122.0,
-      "unrealized_pl": -328.0,
-      "current_price": 25.61,
-      "unrealized_plpc": -6.02
+      "market_value": 5120.0,
+      "unrealized_pl": -330.0,
+      "current_price": 25.6,
+      "unrealized_plpc": -6.05
     },
     {
       "ticker": "LXEO",
@@ -221,10 +221,10 @@
       "side": "long",
       "qty": 633.0,
       "avg_cost": 7.99,
-      "market_value": 4329.72,
-      "unrealized_pl": -727.95,
-      "current_price": 6.84,
-      "unrealized_plpc": -14.39
+      "market_value": 4225.21,
+      "unrealized_pl": -832.46,
+      "current_price": 6.6749,
+      "unrealized_plpc": -16.46
     }
   ]
 }
