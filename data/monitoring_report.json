@@ -1,13 +1,13 @@
 {
   "date": "2026-03-25",
-  "portfolio_value": 98386.32,
-  "total_pl": -1613.679999999993,
-  "total_return_pct": -1.6136799999999951,
-  "today_pl": 3008.04,
-  "today_return_pct": 3.1538,
+  "portfolio_value": 98562.99,
+  "total_pl": -1437.0099999999948,
+  "total_return_pct": -1.4370099999999941,
+  "today_pl": 3184.71,
+  "today_return_pct": 3.339,
   "long_positions": 19,
   "short_positions": 0,
-  "total_long_pl": -69.05000000000007,
+  "total_long_pl": 107.62000000000012,
   "total_short_pl": 0.0,
   "n_alerts": 8,
   "n_drift_alerts": 8,
@@ -18,23 +18,23 @@
   "live_score": "3/5",
   "weeks_live": 0.7142857142857143,
   "cash": 3111.37,
-  "long_market_value": 95274.95,
-  "spy_price": 656.74,
-  "xbi_price": 123.9,
+  "long_market_value": 95451.61999999998,
+  "spy_price": 656.17,
+  "xbi_price": 124.2,
   "spy_inception_price": 660.5,
   "xbi_inception_price": 122.2,
-  "spy_return_pct": -0.5692657077971175,
-  "xbi_return_pct": 1.3911620294599025,
+  "spy_return_pct": -0.6555639666919078,
+  "xbi_return_pct": 1.6366612111292866,
   "positions": [
     {
       "ticker": "NGNE",
       "side": "long",
       "qty": 254.0,
       "avg_cost": 20.0,
-      "market_value": 5595.62,
-      "unrealized_pl": 515.62,
-      "current_price": 22.03,
-      "unrealized_plpc": 10.15
+      "market_value": 5760.72,
+      "unrealized_pl": 680.72,
+      "current_price": 22.68,
+      "unrealized_plpc": 13.4
     },
     {
       "ticker": "CGEM",
@@ -87,6 +87,16 @@
       "unrealized_plpc": 1.83
     },
     {
+      "ticker": "SGMO",
+      "side": "long",
+      "qty": 14092.0,
+      "avg_cost": 0.3499,
+      "market_value": 5004.07,
+      "unrealized_pl": 73.28,
+      "current_price": 0.3551,
+      "unrealized_plpc": 1.49
+    },
+    {
       "ticker": "MRVI",
       "side": "long",
       "qty": 1627.0,
@@ -97,44 +107,24 @@
       "unrealized_plpc": 0.97
     },
     {
-      "ticker": "SGMO",
+      "ticker": "RANI",
       "side": "long",
-      "qty": 14092.0,
-      "avg_cost": 0.3499,
-      "market_value": 4953.34,
-      "unrealized_pl": 22.55,
-      "current_price": 0.3515,
-      "unrealized_plpc": 0.46
+      "qty": 4298.0,
+      "avg_cost": 1.16,
+      "market_value": 4985.68,
+      "unrealized_pl": 0.0,
+      "current_price": 1.16,
+      "unrealized_plpc": 0.0
     },
     {
       "ticker": "RAPP",
       "side": "long",
       "qty": 178.0,
       "avg_cost": 28.9927,
-      "market_value": 5140.64,
-      "unrealized_pl": -20.06,
-      "current_price": 28.88,
-      "unrealized_plpc": -0.39
-    },
-    {
-      "ticker": "ZNTL",
-      "side": "long",
-      "qty": 1906.0,
-      "avg_cost": 2.57,
-      "market_value": 4860.3,
-      "unrealized_pl": -38.12,
-      "current_price": 2.55,
-      "unrealized_plpc": -0.78
-    },
-    {
-      "ticker": "RANI",
-      "side": "long",
-      "qty": 4298.0,
-      "avg_cost": 1.16,
-      "market_value": 4899.72,
-      "unrealized_pl": -85.96,
-      "current_price": 1.14,
-      "unrealized_plpc": -1.72
+      "market_value": 5076.56,
+      "unrealized_pl": -84.14,
+      "current_price": 28.52,
+      "unrealized_plpc": -1.63
     },
     {
       "ticker": "FULC",
@@ -165,6 +155,16 @@
       "unrealized_pl": -114.4,
       "current_price": 27.56,
       "unrealized_plpc": -2.3
+    },
+    {
+      "ticker": "ZNTL",
+      "side": "long",
+      "qty": 1906.0,
+      "avg_cost": 2.57,
+      "market_value": 4765.0,
+      "unrealized_pl": -133.42,
+      "current_price": 2.5,
+      "unrealized_plpc": -2.72
     },
     {
       "ticker": "DMAC",
@@ -211,10 +211,10 @@
       "side": "long",
       "qty": 3426.0,
       "avg_cost": 1.44,
-      "market_value": 4556.58,
-      "unrealized_pl": -376.86,
-      "current_price": 1.33,
-      "unrealized_plpc": -7.64
+      "market_value": 4590.84,
+      "unrealized_pl": -342.6,
+      "current_price": 1.34,
+      "unrealized_plpc": -6.94
     }
   ]
 }
