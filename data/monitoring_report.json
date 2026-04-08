@@ -1,13 +1,13 @@
 {
   "date": "2026-04-08",
-  "portfolio_value": 99000.21,
-  "total_pl": -999.7899999999936,
-  "total_return_pct": -0.9997899999999893,
-  "today_pl": 136.74,
-  "today_return_pct": 0.1383,
+  "portfolio_value": 99052.8,
+  "total_pl": -947.1999999999971,
+  "total_return_pct": -0.9471999999999925,
+  "today_pl": 189.33,
+  "today_return_pct": 0.1915,
   "long_positions": 18,
   "short_positions": 0,
-  "total_long_pl": -685.6200000000003,
+  "total_long_pl": -633.03,
   "total_short_pl": 0.0,
   "n_alerts": 3,
   "n_drift_alerts": 2,
@@ -18,7 +18,7 @@
   "live_score": "3/5",
   "weeks_live": 0.8571428571428571,
   "cash": 7490.3,
-  "long_market_value": 91509.92,
+  "long_market_value": 91562.51,
   "spy_price": 676.01,
   "xbi_price": 130.35,
   "spy_inception_price": 654.29,
@@ -77,14 +77,24 @@
       "unrealized_plpc": 2.74
     },
     {
+      "ticker": "IOVA",
+      "side": "long",
+      "qty": 1503.0,
+      "avg_cost": 3.44,
+      "market_value": 5290.56,
+      "unrealized_pl": 120.24,
+      "current_price": 3.52,
+      "unrealized_plpc": 2.33
+    },
+    {
       "ticker": "HUMA",
       "side": "long",
       "qty": 8078.0,
       "avg_cost": 0.6392,
-      "market_value": 5262.01,
-      "unrealized_pl": 98.55,
-      "current_price": 0.6514,
-      "unrealized_plpc": 1.91
+      "market_value": 5261.2,
+      "unrealized_pl": 97.74,
+      "current_price": 0.6513,
+      "unrealized_plpc": 1.89
     },
     {
       "ticker": "AMRX",
@@ -105,16 +115,6 @@
       "unrealized_pl": 64.87,
       "current_price": 10.53,
       "unrealized_plpc": 1.25
-    },
-    {
-      "ticker": "IOVA",
-      "side": "long",
-      "qty": 1503.0,
-      "avg_cost": 3.44,
-      "market_value": 5230.59,
-      "unrealized_pl": 60.27,
-      "current_price": 3.4801,
-      "unrealized_plpc": 1.17
     },
     {
       "ticker": "DAWN",
@@ -201,10 +201,10 @@
       "side": "long",
       "qty": 664.0,
       "avg_cost": 7.56,
-      "market_value": 3957.44,
-      "unrealized_pl": -1062.4,
-      "current_price": 5.96,
-      "unrealized_plpc": -21.16
+      "market_value": 3950.87,
+      "unrealized_pl": -1068.97,
+      "current_price": 5.9501,
+      "unrealized_plpc": -21.3
     }
   ]
 }
