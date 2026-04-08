@@ -1,8 +1,8 @@
 {
-  "date": "2026-04-06",
+  "date": "2026-04-07",
   "regime": "Strong Bull",
-  "composite_score": -0.5044,
-  "hmm_state": 2,
+  "composite_score": -0.2024,
+  "hmm_state": 1,
   "position_gate": 0.5,
   "position_scale_soft": 0.5,
   "position_scale_passthru": 0.0,
@@ -17,43 +17,43 @@
   "pc6_gate": 0.5,
   "state_profiles": {
     "0": {
-      "regime": "Bear",
-      "gate": 0.0,
-      "hist_pct": 0.2262,
-      "z1_mean": 0.6459,
-      "z2_mean": -0.1135,
-      "z3_mean": 0.0525,
-      "spy_mean_daily_ret": -0.003141
-    },
-    "1": {
       "regime": "Mild Bull",
       "gate": 1.0,
-      "hist_pct": 0.273,
-      "z1_mean": -0.1834,
-      "z2_mean": -0.3811,
-      "z3_mean": 0.1136,
-      "spy_mean_daily_ret": 0.002003
+      "hist_pct": 0.2486,
+      "z1_mean": -0.1113,
+      "z2_mean": -0.3756,
+      "z3_mean": -0.0519,
+      "spy_mean_daily_ret": 0.001535
     },
-    "2": {
+    "1": {
       "regime": "Strong Bull",
       "gate": 1.0,
-      "hist_pct": 0.3193,
-      "z1_mean": -0.4048,
-      "z2_mean": 0.059,
-      "z3_mean": -0.0573,
-      "spy_mean_daily_ret": 0.002924
+      "hist_pct": 0.3152,
+      "z1_mean": -0.3763,
+      "z2_mean": 0.052,
+      "z3_mean": -0.0677,
+      "spy_mean_daily_ret": 0.002833
     },
-    "3": {
+    "2": {
       "regime": "Neutral",
       "gate": 0.5,
-      "hist_pct": 0.1815,
-      "z1_mean": 0.1802,
-      "z2_mean": 0.5991,
-      "z3_mean": -0.1345,
-      "spy_mean_daily_ret": -0.002071
+      "hist_pct": 0.199,
+      "z1_mean": 0.1315,
+      "z2_mean": 0.5556,
+      "z3_mean": -0.1789,
+      "spy_mean_daily_ret": -0.001442
+    },
+    "3": {
+      "regime": "Bear",
+      "gate": 0.0,
+      "hist_pct": 0.2372,
+      "z1_mean": 0.4907,
+      "z2_mean": -0.1364,
+      "z3_mean": 0.2856,
+      "spy_mean_daily_ret": -0.002505
     }
   },
-  "z1_mixed_s": -0.3267,
-  "z2_rates_s": 0.0436,
-  "z3_inflation_s": -0.1783
+  "z1_mixed_s": -0.1876,
+  "z2_rates_s": 0.0023,
+  "z3_inflation_s": -0.25
 }
