@@ -1,13 +1,13 @@
 {
   "date": "2026-04-15",
-  "portfolio_value": 108354.43,
-  "total_pl": 8354.429999999993,
-  "total_return_pct": 8.35443,
-  "today_pl": 3987.84,
-  "today_return_pct": 3.821,
+  "portfolio_value": 108090.49,
+  "total_pl": 8090.490000000005,
+  "total_return_pct": 8.090489999999996,
+  "today_pl": 3723.9,
+  "today_return_pct": 3.5681,
   "long_positions": 18,
   "short_positions": 0,
-  "total_long_pl": 9562.450000000003,
+  "total_long_pl": 9298.510000000002,
   "total_short_pl": 0.0,
   "n_alerts": 2,
   "n_drift_alerts": 2,
@@ -18,7 +18,7 @@
   "live_score": "3/5",
   "weeks_live": 0.8571428571428571,
   "cash": 9106.98,
-  "long_market_value": 99247.45,
+  "long_market_value": 98983.50999999997,
   "spy_price": 699.4,
   "xbi_price": 136.11,
   "spy_inception_price": 680.0,
@@ -31,9 +31,9 @@
       "side": "long",
       "qty": 176.0,
       "avg_cost": 28.21,
-      "market_value": 7198.38,
-      "unrealized_pl": 2233.42,
-      "current_price": 40.8999,
+      "market_value": 7198.4,
+      "unrealized_pl": 2233.44,
+      "current_price": 40.9,
       "unrealized_plpc": 44.98
     },
     {
@@ -51,10 +51,10 @@
       "side": "long",
       "qty": 6583.0,
       "avg_cost": 0.76,
-      "market_value": 6912.81,
-      "unrealized_pl": 1909.73,
-      "current_price": 1.0501,
-      "unrealized_plpc": 38.17
+      "market_value": 6912.15,
+      "unrealized_pl": 1909.07,
+      "current_price": 1.05,
+      "unrealized_plpc": 38.16
     },
     {
       "ticker": "AARD",
@@ -71,10 +71,10 @@
       "side": "long",
       "qty": 6261.0,
       "avg_cost": 0.836,
-      "market_value": 6093.83,
-      "unrealized_pl": 859.64,
-      "current_price": 0.9733,
-      "unrealized_plpc": 16.42
+      "market_value": 5857.79,
+      "unrealized_pl": 623.6,
+      "current_price": 0.9356,
+      "unrealized_plpc": 11.91
     },
     {
       "ticker": "INO",
@@ -91,10 +91,10 @@
       "side": "long",
       "qty": 899.0,
       "avg_cost": 5.46,
-      "market_value": 5286.12,
-      "unrealized_pl": 377.58,
-      "current_price": 5.88,
-      "unrealized_plpc": 7.69
+      "market_value": 5259.15,
+      "unrealized_pl": 350.61,
+      "current_price": 5.85,
+      "unrealized_plpc": 7.14
     },
     {
       "ticker": "TNYA",
@@ -121,10 +121,10 @@
       "side": "long",
       "qty": 2918.0,
       "avg_cost": 1.631,
-      "market_value": 4960.89,
-      "unrealized_pl": 201.65,
-      "current_price": 1.7001,
-      "unrealized_plpc": 4.24
+      "market_value": 4960.6,
+      "unrealized_pl": 201.36,
+      "current_price": 1.7,
+      "unrealized_plpc": 4.23
     },
     {
       "ticker": "ORKA",
