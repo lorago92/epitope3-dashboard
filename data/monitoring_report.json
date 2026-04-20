@@ -1,13 +1,13 @@
 {
   "date": "2026-04-20",
-  "portfolio_value": 108724.44,
-  "total_pl": 8724.440000000002,
-  "total_return_pct": 8.724440000000012,
-  "today_pl": -24.58,
-  "today_return_pct": -0.0226,
+  "portfolio_value": 108595.13,
+  "total_pl": 8595.130000000005,
+  "total_return_pct": 8.595130000000006,
+  "today_pl": -153.89,
+  "today_return_pct": -0.1415,
   "long_positions": 16,
   "short_positions": 0,
-  "total_long_pl": 2069.0400000000004,
+  "total_long_pl": 1939.7400000000002,
   "total_short_pl": 0.0,
   "n_alerts": 15,
   "n_drift_alerts": 14,
@@ -18,12 +18,12 @@
   "live_score": "3/5",
   "weeks_live": 0.5714285714285714,
   "cash": 21157.04,
-  "long_market_value": 87567.40999999997,
-  "spy_price": 708.72,
+  "long_market_value": 87438.1,
+  "spy_price": 708.55,
   "xbi_price": 137.79,
   "spy_inception_price": 680.0,
   "xbi_inception_price": 131.85,
-  "spy_return_pct": 4.223529411764715,
+  "spy_return_pct": 4.1985294117647065,
   "xbi_return_pct": 4.505119453924911,
   "positions": [
     {
@@ -61,10 +61,10 @@
       "side": "long",
       "qty": 2066.0,
       "avg_cost": 2.64,
-      "market_value": 5681.5,
-      "unrealized_pl": 227.26,
-      "current_price": 2.75,
-      "unrealized_plpc": 4.17
+      "market_value": 5656.09,
+      "unrealized_pl": 201.85,
+      "current_price": 2.7377,
+      "unrealized_plpc": 3.7
     },
     {
       "ticker": "FENC",
@@ -91,10 +91,10 @@
       "side": "long",
       "qty": 899.0,
       "avg_cost": 5.46,
-      "market_value": 4917.53,
-      "unrealized_pl": 8.99,
-      "current_price": 5.47,
-      "unrealized_plpc": 0.18
+      "market_value": 4944.5,
+      "unrealized_pl": 35.96,
+      "current_price": 5.5,
+      "unrealized_plpc": 0.73
     },
     {
       "ticker": "CYTK",
@@ -147,16 +147,6 @@
       "unrealized_plpc": -2.77
     },
     {
-      "ticker": "IMUX",
-      "side": "long",
-      "qty": 5233.0,
-      "avg_cost": 1.0201,
-      "market_value": 5189.04,
-      "unrealized_pl": -148.94,
-      "current_price": 0.9916,
-      "unrealized_plpc": -2.79
-    },
-    {
       "ticker": "BCAX",
       "side": "long",
       "qty": 222.0,
@@ -167,24 +157,34 @@
       "unrealized_plpc": -2.82
     },
     {
+      "ticker": "IMUX",
+      "side": "long",
+      "qty": 5233.0,
+      "avg_cost": 1.0201,
+      "market_value": 5097.47,
+      "unrealized_pl": -240.51,
+      "current_price": 0.9741,
+      "unrealized_plpc": -4.51
+    },
+    {
       "ticker": "HUMA",
       "side": "long",
       "qty": 7740.0,
       "avg_cost": 0.7399,
-      "market_value": 5342.15,
-      "unrealized_pl": -384.68,
-      "current_price": 0.6902,
-      "unrealized_plpc": -6.72
+      "market_value": 5395.55,
+      "unrealized_pl": -331.27,
+      "current_price": 0.6971,
+      "unrealized_plpc": -5.79
     },
     {
       "ticker": "REPL",
       "side": "long",
       "qty": 2414.0,
       "avg_cost": 2.28,
-      "market_value": 5089.68,
-      "unrealized_pl": -414.24,
-      "current_price": 2.1084,
-      "unrealized_plpc": -7.53
+      "market_value": 4996.98,
+      "unrealized_pl": -506.94,
+      "current_price": 2.07,
+      "unrealized_plpc": -9.21
     }
   ]
 }
