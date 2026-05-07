@@ -1,13 +1,13 @@
 {
   "date": "2026-05-07",
-  "portfolio_value": 101055.68,
-  "total_pl": 1055.679999999993,
-  "total_return_pct": 1.0556800000000033,
-  "today_pl": -3555.09,
-  "today_return_pct": -3.3984,
+  "portfolio_value": 101106.0,
+  "total_pl": 1106.0,
+  "total_return_pct": 1.106000000000007,
+  "today_pl": -3504.77,
+  "today_return_pct": -3.3503,
   "long_positions": 18,
   "short_positions": 0,
-  "total_long_pl": 2964.5499999999993,
+  "total_long_pl": 3014.869999999999,
   "total_short_pl": 0.0,
   "n_alerts": 16,
   "n_drift_alerts": 16,
@@ -18,7 +18,7 @@
   "live_score": "3/5",
   "weeks_live": 0.0,
   "cash": 8945.38,
-  "long_market_value": 92110.3,
+  "long_market_value": 92160.62,
   "spy_price": 731.42,
   "xbi_price": 133.47,
   "spy_inception_price": 731.3,
@@ -31,10 +31,10 @@
       "side": "long",
       "qty": 359.0,
       "avg_cost": 13.59,
-      "market_value": 7832.27,
-      "unrealized_pl": 2953.46,
-      "current_price": 21.8169,
-      "unrealized_plpc": 60.54
+      "market_value": 7780.18,
+      "unrealized_pl": 2901.37,
+      "current_price": 21.6718,
+      "unrealized_plpc": 59.47
     },
     {
       "ticker": "CYTK",
@@ -77,6 +77,16 @@
       "unrealized_plpc": 7.5
     },
     {
+      "ticker": "IMMX",
+      "side": "long",
+      "qty": 539.0,
+      "avg_cost": 9.06,
+      "market_value": 5244.47,
+      "unrealized_pl": 361.13,
+      "current_price": 9.73,
+      "unrealized_plpc": 7.4
+    },
+    {
       "ticker": "ABEO",
       "side": "long",
       "qty": 885.0,
@@ -95,16 +105,6 @@
       "unrealized_pl": 265.71,
       "current_price": 1.0,
       "unrealized_plpc": 5.37
-    },
-    {
-      "ticker": "IMMX",
-      "side": "long",
-      "qty": 539.0,
-      "avg_cost": 9.06,
-      "market_value": 5142.06,
-      "unrealized_pl": 258.72,
-      "current_price": 9.54,
-      "unrealized_plpc": 5.3
     },
     {
       "ticker": "GLUE",
