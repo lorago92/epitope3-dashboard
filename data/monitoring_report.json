@@ -1,13 +1,13 @@
 {
   "date": "2026-05-07",
-  "portfolio_value": 101334.87,
-  "total_pl": 1334.8699999999953,
-  "total_return_pct": 1.334869999999988,
-  "today_pl": -3275.9,
-  "today_return_pct": -3.1315,
+  "portfolio_value": 101055.68,
+  "total_pl": 1055.679999999993,
+  "total_return_pct": 1.0556800000000033,
+  "today_pl": -3555.09,
+  "today_return_pct": -3.3984,
   "long_positions": 18,
   "short_positions": 0,
-  "total_long_pl": 3243.7299999999996,
+  "total_long_pl": 2964.5499999999993,
   "total_short_pl": 0.0,
   "n_alerts": 16,
   "n_drift_alerts": 16,
@@ -18,7 +18,7 @@
   "live_score": "3/5",
   "weeks_live": 0.0,
   "cash": 8945.38,
-  "long_market_value": 92389.48000000001,
+  "long_market_value": 92110.3,
   "spy_price": 731.42,
   "xbi_price": 133.47,
   "spy_inception_price": 731.3,
@@ -31,10 +31,10 @@
       "side": "long",
       "qty": 359.0,
       "avg_cost": 13.59,
-      "market_value": 8041.6,
-      "unrealized_pl": 3162.79,
-      "current_price": 22.4,
-      "unrealized_plpc": 64.83
+      "market_value": 7832.27,
+      "unrealized_pl": 2953.46,
+      "current_price": 21.8169,
+      "unrealized_plpc": 60.54
     },
     {
       "ticker": "CYTK",
@@ -131,20 +131,20 @@
       "side": "long",
       "qty": 2384.0,
       "avg_cost": 2.3429,
-      "market_value": 5626.24,
-      "unrealized_pl": 40.81,
-      "current_price": 2.36,
-      "unrealized_plpc": 0.73
+      "market_value": 5578.56,
+      "unrealized_pl": -6.87,
+      "current_price": 2.34,
+      "unrealized_plpc": -0.12
     },
     {
       "ticker": "IVVD",
       "side": "long",
       "qty": 3695.0,
       "avg_cost": 1.5,
-      "market_value": 5357.75,
-      "unrealized_pl": -184.75,
-      "current_price": 1.45,
-      "unrealized_plpc": -3.33
+      "market_value": 5335.58,
+      "unrealized_pl": -206.92,
+      "current_price": 1.444,
+      "unrealized_plpc": -3.73
     },
     {
       "ticker": "GOSS",
