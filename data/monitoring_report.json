@@ -1,13 +1,13 @@
 {
   "date": "2026-05-11",
-  "portfolio_value": 104351.25,
-  "total_pl": 4351.25,
-  "total_return_pct": 4.3512500000000065,
-  "today_pl": 2071.63,
-  "today_return_pct": 2.0255,
+  "portfolio_value": 104483.75,
+  "total_pl": 4483.75,
+  "total_return_pct": 4.483750000000009,
+  "today_pl": 2204.13,
+  "today_return_pct": 2.155,
   "long_positions": 15,
   "short_positions": 0,
-  "total_long_pl": 3114.1800000000007,
+  "total_long_pl": 3246.6700000000014,
   "total_short_pl": 0.0,
   "n_alerts": 5,
   "n_drift_alerts": 5,
@@ -18,7 +18,7 @@
   "live_score": "3/5",
   "weeks_live": 0.5714285714285714,
   "cash": 28547.56,
-  "long_market_value": 75803.69000000002,
+  "long_market_value": 75936.18000000001,
   "spy_price": 738.29,
   "xbi_price": 134.41,
   "spy_inception_price": 731.3,
@@ -41,20 +41,20 @@
       "side": "long",
       "qty": 1687.0,
       "avg_cost": 2.97,
-      "market_value": 6073.2,
-      "unrealized_pl": 1062.81,
-      "current_price": 3.6,
-      "unrealized_plpc": 21.21
+      "market_value": 6208.16,
+      "unrealized_pl": 1197.77,
+      "current_price": 3.68,
+      "unrealized_plpc": 23.91
     },
     {
       "ticker": "TNYA",
       "side": "long",
       "qty": 5884.0,
       "avg_cost": 0.86,
-      "market_value": 5825.16,
-      "unrealized_pl": 764.92,
-      "current_price": 0.99,
-      "unrealized_plpc": 15.12
+      "market_value": 5813.39,
+      "unrealized_pl": 753.15,
+      "current_price": 0.988,
+      "unrealized_plpc": 14.88
     },
     {
       "ticker": "DSGN",
@@ -91,20 +91,20 @@
       "side": "long",
       "qty": 288.0,
       "avg_cost": 17.8,
-      "market_value": 5356.8,
-      "unrealized_pl": 230.4,
-      "current_price": 18.6,
-      "unrealized_plpc": 4.49
+      "market_value": 5344.47,
+      "unrealized_pl": 218.07,
+      "current_price": 18.5572,
+      "unrealized_plpc": 4.25
     },
     {
       "ticker": "CHRS",
       "side": "long",
       "qty": 2813.0,
       "avg_cost": 1.77,
-      "market_value": 5128.1,
-      "unrealized_pl": 149.09,
-      "current_price": 1.823,
-      "unrealized_plpc": 2.99
+      "market_value": 5092.37,
+      "unrealized_pl": 113.36,
+      "current_price": 1.8103,
+      "unrealized_plpc": 2.28
     },
     {
       "ticker": "AARD",
@@ -121,10 +121,10 @@
       "side": "long",
       "qty": 1912.0,
       "avg_cost": 2.66,
-      "market_value": 5009.44,
-      "unrealized_pl": -76.48,
-      "current_price": 2.62,
-      "unrealized_plpc": -1.5
+      "market_value": 5066.8,
+      "unrealized_pl": -19.12,
+      "current_price": 2.65,
+      "unrealized_plpc": -0.38
     },
     {
       "ticker": "ERAS",
