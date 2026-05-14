@@ -13,7 +13,7 @@
   ],
   "hmm_converged": true,
   "method": "macro_pca_hmm",
-  "pc6_value": 0.798,
+  "pc6_value": 0.0026,
   "pc6_gate": 1.0,
   "state_profiles": {
     "0": {
