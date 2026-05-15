@@ -1,13 +1,13 @@
 {
   "date": "2026-05-15",
-  "portfolio_value": 97421.09,
-  "total_pl": -2578.9100000000035,
-  "total_return_pct": -2.578910000000001,
-  "today_pl": -6139.29,
-  "today_return_pct": -5.9282,
+  "portfolio_value": 97367.02,
+  "total_pl": -2632.979999999996,
+  "total_return_pct": -2.632979999999996,
+  "today_pl": -6193.36,
+  "today_return_pct": -5.9804,
   "long_positions": 13,
   "short_positions": 0,
-  "total_long_pl": -1243.7399999999998,
+  "total_long_pl": -1297.81,
   "total_short_pl": 0.0,
   "n_alerts": 8,
   "n_drift_alerts": 7,
@@ -18,53 +18,73 @@
   "live_score": "3/5",
   "weeks_live": 0.14285714285714285,
   "cash": 35573.07,
-  "long_market_value": 61848.04,
-  "spy_price": 741.35,
-  "xbi_price": 131.04,
+  "long_market_value": 61793.96,
+  "spy_price": 739.935,
+  "xbi_price": 130.83,
   "spy_inception_price": 747.5,
   "xbi_inception_price": 134.85,
-  "spy_return_pct": -0.8227424749163825,
-  "xbi_return_pct": -2.8253615127919907,
+  "spy_return_pct": -1.0120401337792684,
+  "xbi_return_pct": -2.9810901001112167,
   "positions": [
     {
       "ticker": "AVTX",
       "side": "long",
       "qty": 215.0,
       "avg_cost": 13.59,
-      "market_value": 3974.28,
-      "unrealized_pl": 1052.42,
-      "current_price": 18.485,
-      "unrealized_plpc": 36.02
+      "market_value": 3934.5,
+      "unrealized_pl": 1012.65,
+      "current_price": 18.3,
+      "unrealized_plpc": 34.66
     },
     {
       "ticker": "VNDA",
       "side": "long",
       "qty": 790.0,
       "avg_cost": 6.3098,
-      "market_value": 4929.6,
-      "unrealized_pl": -55.14,
-      "current_price": 6.24,
-      "unrealized_plpc": -1.11
+      "market_value": 4937.5,
+      "unrealized_pl": -47.24,
+      "current_price": 6.25,
+      "unrealized_plpc": -0.95
     },
     {
       "ticker": "BCAX",
       "side": "long",
       "qty": 244.0,
       "avg_cost": 20.5206,
-      "market_value": 4916.6,
-      "unrealized_pl": -90.42,
-      "current_price": 20.15,
-      "unrealized_plpc": -1.81
+      "market_value": 4931.24,
+      "unrealized_pl": -75.78,
+      "current_price": 20.21,
+      "unrealized_plpc": -1.51
+    },
+    {
+      "ticker": "CATX",
+      "side": "long",
+      "qty": 1305.0,
+      "avg_cost": 3.8194,
+      "market_value": 4874.18,
+      "unrealized_pl": -110.19,
+      "current_price": 3.735,
+      "unrealized_plpc": -2.21
     },
     {
       "ticker": "KURA",
       "side": "long",
       "qty": 517.0,
       "avg_cost": 9.7001,
-      "market_value": 4901.16,
-      "unrealized_pl": -113.78,
-      "current_price": 9.48,
-      "unrealized_plpc": -2.27
+      "market_value": 4875.31,
+      "unrealized_pl": -139.63,
+      "current_price": 9.43,
+      "unrealized_plpc": -2.78
+    },
+    {
+      "ticker": "XERS",
+      "side": "long",
+      "qty": 746.0,
+      "avg_cost": 6.5702,
+      "market_value": 4758.66,
+      "unrealized_pl": -142.74,
+      "current_price": 6.3789,
+      "unrealized_plpc": -2.91
     },
     {
       "ticker": "AKBA",
@@ -77,84 +97,64 @@
       "unrealized_plpc": -3.02
     },
     {
-      "ticker": "CATX",
+      "ticker": "MIST",
       "side": "long",
-      "qty": 1305.0,
-      "avg_cost": 3.8194,
-      "market_value": 4808.93,
-      "unrealized_pl": -175.44,
-      "current_price": 3.685,
-      "unrealized_plpc": -3.52
-    },
-    {
-      "ticker": "XERS",
-      "side": "long",
-      "qty": 746.0,
-      "avg_cost": 6.5702,
-      "market_value": 4722.18,
-      "unrealized_pl": -179.22,
-      "current_price": 6.33,
-      "unrealized_plpc": -3.66
-    },
-    {
-      "ticker": "VSTM",
-      "side": "long",
-      "qty": 1066.0,
-      "avg_cost": 4.6978,
-      "market_value": 4818.32,
-      "unrealized_pl": -189.51,
-      "current_price": 4.52,
-      "unrealized_plpc": -3.78
-    },
-    {
-      "ticker": "NBP",
-      "side": "long",
-      "qty": 2628.0,
-      "avg_cost": 1.9098,
-      "market_value": 4810.03,
-      "unrealized_pl": -209.02,
-      "current_price": 1.8303,
-      "unrealized_plpc": -4.17
+      "qty": 3105.0,
+      "avg_cost": 1.6,
+      "market_value": 4748.48,
+      "unrealized_pl": -219.52,
+      "current_price": 1.5293,
+      "unrealized_plpc": -4.42
     },
     {
       "ticker": "ADCT",
       "side": "long",
       "qty": 1497.0,
       "avg_cost": 3.39,
-      "market_value": 4842.8,
-      "unrealized_pl": -232.03,
-      "current_price": 3.235,
-      "unrealized_plpc": -4.57
+      "market_value": 4827.82,
+      "unrealized_pl": -247.0,
+      "current_price": 3.225,
+      "unrealized_plpc": -4.87
     },
     {
-      "ticker": "MIST",
+      "ticker": "NBP",
       "side": "long",
-      "qty": 3105.0,
-      "avg_cost": 1.6,
-      "market_value": 4719.6,
-      "unrealized_pl": -248.4,
-      "current_price": 1.52,
-      "unrealized_plpc": -5.0
+      "qty": 2628.0,
+      "avg_cost": 1.9098,
+      "market_value": 4769.82,
+      "unrealized_pl": -249.23,
+      "current_price": 1.815,
+      "unrealized_plpc": -4.97
+    },
+    {
+      "ticker": "VSTM",
+      "side": "long",
+      "qty": 1066.0,
+      "avg_cost": 4.6978,
+      "market_value": 4738.37,
+      "unrealized_pl": -269.46,
+      "current_price": 4.445,
+      "unrealized_plpc": -5.38
     },
     {
       "ticker": "NMRA",
       "side": "long",
       "qty": 2568.0,
       "avg_cost": 1.9569,
-      "market_value": 4737.96,
-      "unrealized_pl": -287.43,
-      "current_price": 1.845,
-      "unrealized_plpc": -5.72
+      "market_value": 4750.8,
+      "unrealized_pl": -274.59,
+      "current_price": 1.85,
+      "unrealized_plpc": -5.46
     },
     {
       "ticker": "HRTX",
       "side": "long",
       "qty": 5515.0,
       "avg_cost": 0.9402,
-      "market_value": 4820.11,
-      "unrealized_pl": -365.09,
-      "current_price": 0.874,
-      "unrealized_plpc": -7.04
+      "market_value": 4800.81,
+      "unrealized_pl": -384.4,
+      "current_price": 0.8705,
+      "unrealized_plpc": -7.41
     }
   ]
 }
