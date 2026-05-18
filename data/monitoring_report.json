@@ -1,13 +1,13 @@
 {
   "date": "2026-05-18",
-  "portfolio_value": 94828.91,
-  "total_pl": -5171.0899999999965,
-  "total_return_pct": -5.17109,
-  "today_pl": -1927.57,
-  "today_return_pct": -1.9922,
+  "portfolio_value": 94644.1,
+  "total_pl": -5355.899999999994,
+  "total_return_pct": -5.355899999999991,
+  "today_pl": -2112.38,
+  "today_return_pct": -2.1832,
   "long_positions": 13,
   "short_positions": 0,
-  "total_long_pl": -3831.1,
+  "total_long_pl": -4015.91,
   "total_short_pl": 0.0,
   "n_alerts": 8,
   "n_drift_alerts": 7,
@@ -18,7 +18,7 @@
   "live_score": "3/5",
   "weeks_live": 0.5714285714285714,
   "cash": 35568.25,
-  "long_market_value": 59260.67,
+  "long_market_value": 59075.850000000006,
   "spy_price": 738.3,
   "xbi_price": 127.75,
   "spy_inception_price": 747.5,
@@ -81,40 +81,20 @@
       "side": "long",
       "qty": 1497.0,
       "avg_cost": 3.39,
-      "market_value": 4710.31,
-      "unrealized_pl": -364.52,
-      "current_price": 3.1465,
-      "unrealized_plpc": -7.18
+      "market_value": 4745.19,
+      "unrealized_pl": -329.64,
+      "current_price": 3.1698,
+      "unrealized_plpc": -6.5
     },
     {
       "ticker": "MIST",
       "side": "long",
       "qty": 3105.0,
       "avg_cost": 1.6,
-      "market_value": 4594.16,
-      "unrealized_pl": -373.84,
-      "current_price": 1.4796,
-      "unrealized_plpc": -7.52
-    },
-    {
-      "ticker": "NBP",
-      "side": "long",
-      "qty": 2628.0,
-      "avg_cost": 1.9098,
-      "market_value": 4599.0,
-      "unrealized_pl": -420.05,
-      "current_price": 1.75,
-      "unrealized_plpc": -8.37
-    },
-    {
-      "ticker": "HRTX",
-      "side": "long",
-      "qty": 5515.0,
-      "avg_cost": 0.9402,
-      "market_value": 4745.11,
-      "unrealized_pl": -440.1,
-      "current_price": 0.8604,
-      "unrealized_plpc": -8.49
+      "market_value": 4564.35,
+      "unrealized_pl": -403.65,
+      "current_price": 1.47,
+      "unrealized_plpc": -8.12
     },
     {
       "ticker": "XERS",
@@ -125,6 +105,16 @@
       "unrealized_pl": -417.94,
       "current_price": 6.01,
       "unrealized_plpc": -8.53
+    },
+    {
+      "ticker": "HRTX",
+      "side": "long",
+      "qty": 5515.0,
+      "avg_cost": 0.9402,
+      "market_value": 4710.36,
+      "unrealized_pl": -474.84,
+      "current_price": 0.8541,
+      "unrealized_plpc": -9.16
     },
     {
       "ticker": "VSTM",
@@ -151,10 +141,20 @@
       "side": "long",
       "qty": 4426.0,
       "avg_cost": 1.129,
-      "market_value": 4426.0,
-      "unrealized_pl": -571.15,
-      "current_price": 1.0,
-      "unrealized_plpc": -11.43
+      "market_value": 4426.44,
+      "unrealized_pl": -570.71,
+      "current_price": 1.0001,
+      "unrealized_plpc": -11.42
+    },
+    {
+      "ticker": "NBP",
+      "side": "long",
+      "qty": 2628.0,
+      "avg_cost": 1.9098,
+      "market_value": 4443.42,
+      "unrealized_pl": -575.63,
+      "current_price": 1.6908,
+      "unrealized_plpc": -11.47
     }
   ]
 }
