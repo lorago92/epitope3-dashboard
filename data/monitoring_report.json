@@ -20,11 +20,11 @@
   "cash": 35568.25,
   "long_market_value": 59233.94999999999,
   "spy_price": 738.3,
-  "xbi_price": 127.675,
+  "xbi_price": 127.75,
   "spy_inception_price": 747.5,
   "xbi_inception_price": 134.85,
   "spy_return_pct": -1.2307692307692353,
-  "xbi_return_pct": -5.320726733407488,
+  "xbi_return_pct": -5.265109380793476,
   "positions": [
     {
       "ticker": "AVTX",
