@@ -1,13 +1,13 @@
 {
   "date": "2026-05-20",
-  "portfolio_value": 96196.1,
-  "total_pl": -3803.899999999994,
-  "total_return_pct": -3.8038999999999934,
-  "today_pl": 2817.38,
-  "today_return_pct": 3.0171,
+  "portfolio_value": 96400.35,
+  "total_pl": -3599.649999999994,
+  "total_return_pct": -3.5996499999999987,
+  "today_pl": 3021.63,
+  "today_return_pct": 3.2359,
   "long_positions": 13,
   "short_positions": 0,
-  "total_long_pl": -2463.9099999999994,
+  "total_long_pl": -2259.66,
   "total_short_pl": 0.0,
   "n_alerts": 18,
   "n_drift_alerts": 18,
@@ -18,7 +18,7 @@
   "live_score": "3/5",
   "weeks_live": 0.0,
   "cash": 35568.25,
-  "long_market_value": 60627.85,
+  "long_market_value": 60832.11,
   "spy_price": 740.86,
   "xbi_price": 131.46,
   "spy_inception_price": 740.09,
@@ -31,10 +31,10 @@
       "side": "long",
       "qty": 215.0,
       "avg_cost": 13.59,
-      "market_value": 3502.35,
-      "unrealized_pl": 580.5,
-      "current_price": 16.29,
-      "unrealized_plpc": 19.87
+      "market_value": 3571.15,
+      "unrealized_pl": 649.3,
+      "current_price": 16.61,
+      "unrealized_plpc": 22.22
     },
     {
       "ticker": "KURA",
@@ -107,6 +107,16 @@
       "unrealized_plpc": -5.18
     },
     {
+      "ticker": "NBP",
+      "side": "long",
+      "qty": 2628.0,
+      "avg_cost": 1.9098,
+      "market_value": 4724.36,
+      "unrealized_pl": -294.69,
+      "current_price": 1.7977,
+      "unrealized_plpc": -5.87
+    },
+    {
       "ticker": "HRTX",
       "side": "long",
       "qty": 5515.0,
@@ -117,24 +127,24 @@
       "unrealized_plpc": -7.48
     },
     {
-      "ticker": "NBP",
+      "ticker": "NMRA",
       "side": "long",
-      "qty": 2628.0,
-      "avg_cost": 1.9098,
-      "market_value": 4625.28,
-      "unrealized_pl": -393.77,
-      "current_price": 1.76,
-      "unrealized_plpc": -7.85
+      "qty": 2568.0,
+      "avg_cost": 1.9569,
+      "market_value": 4497.6,
+      "unrealized_pl": -527.8,
+      "current_price": 1.7514,
+      "unrealized_plpc": -10.5
     },
     {
       "ticker": "AKBA",
       "side": "long",
       "qty": 4426.0,
       "avg_cost": 1.129,
-      "market_value": 4470.26,
-      "unrealized_pl": -526.89,
-      "current_price": 1.01,
-      "unrealized_plpc": -10.54
+      "market_value": 4426.0,
+      "unrealized_pl": -571.15,
+      "current_price": 1.0,
+      "unrealized_plpc": -11.43
     },
     {
       "ticker": "VSTM",
@@ -145,16 +155,6 @@
       "unrealized_pl": -583.93,
       "current_price": 4.15,
       "unrealized_plpc": -11.66
-    },
-    {
-      "ticker": "NMRA",
-      "side": "long",
-      "qty": 2568.0,
-      "avg_cost": 1.9569,
-      "market_value": 4416.96,
-      "unrealized_pl": -608.43,
-      "current_price": 1.72,
-      "unrealized_plpc": -12.11
     }
   ]
 }
