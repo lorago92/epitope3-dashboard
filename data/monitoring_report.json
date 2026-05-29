@@ -1,13 +1,13 @@
 {
   "date": "2026-05-29",
-  "portfolio_value": 98911.97,
-  "total_pl": -1088.0299999999988,
-  "total_return_pct": -1.0880299999999954,
-  "today_pl": 878.23,
-  "today_return_pct": 0.8958,
+  "portfolio_value": 98772.27,
+  "total_pl": -1227.729999999996,
+  "total_return_pct": -1.2277299999999935,
+  "today_pl": 738.53,
+  "today_return_pct": 0.7533,
   "long_positions": 18,
   "short_positions": 0,
-  "total_long_pl": 431.38000000000034,
+  "total_long_pl": 291.6900000000003,
   "total_short_pl": 0.0,
   "n_alerts": 2,
   "n_drift_alerts": 2,
@@ -18,7 +18,7 @@
   "live_score": "3/5",
   "weeks_live": 0.14285714285714285,
   "cash": 7136.13,
-  "long_market_value": 91775.84,
+  "long_market_value": 91636.15000000001,
   "spy_price": 755.95,
   "xbi_price": 136.35,
   "spy_inception_price": 754.78,
@@ -41,10 +41,10 @@
       "side": "long",
       "qty": 324.0,
       "avg_cost": 15.5948,
-      "market_value": 5498.28,
-      "unrealized_pl": 445.56,
-      "current_price": 16.97,
-      "unrealized_plpc": 8.82
+      "market_value": 5423.76,
+      "unrealized_pl": 371.04,
+      "current_price": 16.74,
+      "unrealized_plpc": 7.34
     },
     {
       "ticker": "RNAC",
@@ -71,10 +71,10 @@
       "side": "long",
       "qty": 2824.0,
       "avg_cost": 1.79,
-      "market_value": 5207.17,
-      "unrealized_pl": 152.21,
-      "current_price": 1.8439,
-      "unrealized_plpc": 3.01
+      "market_value": 5224.4,
+      "unrealized_pl": 169.44,
+      "current_price": 1.85,
+      "unrealized_plpc": 3.35
     },
     {
       "ticker": "ADCT",
@@ -147,16 +147,6 @@
       "unrealized_plpc": -0.92
     },
     {
-      "ticker": "IPSC",
-      "side": "long",
-      "qty": 2060.0,
-      "avg_cost": 2.48,
-      "market_value": 5026.4,
-      "unrealized_pl": -82.4,
-      "current_price": 2.44,
-      "unrealized_plpc": -1.61
-    },
-    {
       "ticker": "LRMR",
       "side": "long",
       "qty": 1442.0,
@@ -175,6 +165,16 @@
       "unrealized_pl": -135.17,
       "current_price": 1.8584,
       "unrealized_plpc": -2.69
+    },
+    {
+      "ticker": "IPSC",
+      "side": "long",
+      "qty": 2060.0,
+      "avg_cost": 2.48,
+      "market_value": 4944.0,
+      "unrealized_pl": -164.8,
+      "current_price": 2.4,
+      "unrealized_plpc": -3.23
     },
     {
       "ticker": "CSTL",
