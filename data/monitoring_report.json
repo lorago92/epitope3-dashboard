@@ -1,13 +1,13 @@
 {
   "date": "2026-06-01",
-  "portfolio_value": 93753.17,
-  "total_pl": -6246.830000000002,
-  "total_return_pct": -6.246830000000003,
-  "today_pl": -4648.34,
-  "today_return_pct": -4.7239,
+  "portfolio_value": 93586.67,
+  "total_pl": -6413.330000000002,
+  "total_return_pct": -6.4133300000000055,
+  "today_pl": -4814.84,
+  "today_return_pct": -4.8931,
   "long_positions": 18,
   "short_positions": 0,
-  "total_long_pl": -4727.36,
+  "total_long_pl": -4893.860000000001,
   "total_short_pl": 0.0,
   "n_alerts": 3,
   "n_drift_alerts": 2,
@@ -18,7 +18,7 @@
   "live_score": "2/5",
   "weeks_live": 0.5714285714285714,
   "cash": 7136.07,
-  "long_market_value": 86617.1,
+  "long_market_value": 86450.59999999999,
   "spy_price": 758.65,
   "xbi_price": 133.57,
   "spy_inception_price": 754.78,
@@ -26,16 +26,6 @@
   "spy_return_pct": 0.512732186862408,
   "xbi_return_pct": -1.6457420566253211,
   "positions": [
-    {
-      "ticker": "AUTL",
-      "side": "long",
-      "qty": 2824.0,
-      "avg_cost": 1.79,
-      "market_value": 5252.64,
-      "unrealized_pl": 197.68,
-      "current_price": 1.86,
-      "unrealized_plpc": 3.91
-    },
     {
       "ticker": "LAB",
       "side": "long",
@@ -57,24 +47,34 @@
       "unrealized_plpc": 3.56
     },
     {
+      "ticker": "AUTL",
+      "side": "long",
+      "qty": 2824.0,
+      "avg_cost": 1.79,
+      "market_value": 5139.68,
+      "unrealized_pl": 84.72,
+      "current_price": 1.82,
+      "unrealized_plpc": 1.68
+    },
+    {
       "ticker": "ADCT",
       "side": "long",
       "qty": 1497.0,
       "avg_cost": 3.39,
-      "market_value": 5179.62,
-      "unrealized_pl": 104.79,
-      "current_price": 3.46,
-      "unrealized_plpc": 2.07
+      "market_value": 5104.77,
+      "unrealized_pl": 29.94,
+      "current_price": 3.41,
+      "unrealized_plpc": 0.59
     },
     {
       "ticker": "LRMR",
       "side": "long",
       "qty": 1442.0,
       "avg_cost": 3.52,
-      "market_value": 5049.45,
-      "unrealized_pl": -26.39,
-      "current_price": 3.5017,
-      "unrealized_plpc": -0.52
+      "market_value": 5048.73,
+      "unrealized_pl": -27.11,
+      "current_price": 3.5012,
+      "unrealized_plpc": -0.53
     },
     {
       "ticker": "AARD",
@@ -117,26 +117,6 @@
       "unrealized_plpc": -2.62
     },
     {
-      "ticker": "IPSC",
-      "side": "long",
-      "qty": 2060.0,
-      "avg_cost": 2.48,
-      "market_value": 4944.0,
-      "unrealized_pl": -164.8,
-      "current_price": 2.4,
-      "unrealized_plpc": -3.23
-    },
-    {
-      "ticker": "CSTL",
-      "side": "long",
-      "qty": 231.0,
-      "avg_cost": 21.92,
-      "market_value": 4844.07,
-      "unrealized_pl": -219.45,
-      "current_price": 20.97,
-      "unrealized_plpc": -4.33
-    },
-    {
       "ticker": "ALEC",
       "side": "long",
       "qty": 2325.0,
@@ -145,6 +125,26 @@
       "unrealized_pl": -255.75,
       "current_price": 2.07,
       "unrealized_plpc": -5.05
+    },
+    {
+      "ticker": "IPSC",
+      "side": "long",
+      "qty": 2060.0,
+      "avg_cost": 2.48,
+      "market_value": 4820.81,
+      "unrealized_pl": -287.99,
+      "current_price": 2.3402,
+      "unrealized_plpc": -5.64
+    },
+    {
+      "ticker": "CSTL",
+      "side": "long",
+      "qty": 231.0,
+      "avg_cost": 21.92,
+      "market_value": 4763.57,
+      "unrealized_pl": -299.95,
+      "current_price": 20.6215,
+      "unrealized_plpc": -5.92
     },
     {
       "ticker": "NMRA",
@@ -201,10 +201,10 @@
       "side": "long",
       "qty": 38.0,
       "avg_cost": 132.0,
-      "market_value": 3174.9,
-      "unrealized_pl": -1841.1,
-      "current_price": 83.55,
-      "unrealized_plpc": -36.7
+      "market_value": 3400.62,
+      "unrealized_pl": -1615.38,
+      "current_price": 89.49,
+      "unrealized_plpc": -32.2
     }
   ]
 }
