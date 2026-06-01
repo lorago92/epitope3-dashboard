@@ -1,13 +1,13 @@
 {
   "date": "2026-06-01",
-  "portfolio_value": 93586.67,
-  "total_pl": -6413.330000000002,
-  "total_return_pct": -6.4133300000000055,
-  "today_pl": -4814.84,
-  "today_return_pct": -4.8931,
+  "portfolio_value": 93620.63,
+  "total_pl": -6379.369999999995,
+  "total_return_pct": -6.379369999999995,
+  "today_pl": -4780.88,
+  "today_return_pct": -4.8585,
   "long_positions": 18,
   "short_positions": 0,
-  "total_long_pl": -4893.860000000001,
+  "total_long_pl": -4859.9,
   "total_short_pl": 0.0,
   "n_alerts": 3,
   "n_drift_alerts": 2,
@@ -18,7 +18,7 @@
   "live_score": "2/5",
   "weeks_live": 0.5714285714285714,
   "cash": 7136.07,
-  "long_market_value": 86450.59999999999,
+  "long_market_value": 86484.56,
   "spy_price": 758.65,
   "xbi_price": 133.57,
   "spy_inception_price": 754.78,
@@ -57,14 +57,24 @@
       "unrealized_plpc": 1.68
     },
     {
+      "ticker": "MGTX",
+      "side": "long",
+      "qty": 511.0,
+      "avg_cost": 9.92,
+      "market_value": 5104.89,
+      "unrealized_pl": 35.77,
+      "current_price": 9.99,
+      "unrealized_plpc": 0.71
+    },
+    {
       "ticker": "ADCT",
       "side": "long",
       "qty": 1497.0,
       "avg_cost": 3.39,
-      "market_value": 5104.77,
-      "unrealized_pl": 29.94,
-      "current_price": 3.41,
-      "unrealized_plpc": 0.59
+      "market_value": 5089.8,
+      "unrealized_pl": 14.97,
+      "current_price": 3.4,
+      "unrealized_plpc": 0.29
     },
     {
       "ticker": "LRMR",
@@ -77,26 +87,6 @@
       "unrealized_plpc": -0.53
     },
     {
-      "ticker": "AARD",
-      "side": "long",
-      "qty": 1242.0,
-      "avg_cost": 4.1,
-      "market_value": 5042.52,
-      "unrealized_pl": -49.68,
-      "current_price": 4.06,
-      "unrealized_plpc": -0.98
-    },
-    {
-      "ticker": "MGTX",
-      "side": "long",
-      "qty": 511.0,
-      "avg_cost": 9.92,
-      "market_value": 4997.58,
-      "unrealized_pl": -71.54,
-      "current_price": 9.78,
-      "unrealized_plpc": -1.41
-    },
-    {
       "ticker": "RNAC",
       "side": "long",
       "qty": 718.0,
@@ -107,14 +97,24 @@
       "unrealized_plpc": -2.12
     },
     {
+      "ticker": "AARD",
+      "side": "long",
+      "qty": 1242.0,
+      "avg_cost": 4.1,
+      "market_value": 4943.28,
+      "unrealized_pl": -148.92,
+      "current_price": 3.9801,
+      "unrealized_plpc": -2.92
+    },
+    {
       "ticker": "EVMN",
       "side": "long",
       "qty": 222.0,
       "avg_cost": 22.93,
-      "market_value": 4957.26,
-      "unrealized_pl": -133.2,
-      "current_price": 22.33,
-      "unrealized_plpc": -2.62
+      "market_value": 4921.74,
+      "unrealized_pl": -168.72,
+      "current_price": 22.17,
+      "unrealized_plpc": -3.31
     },
     {
       "ticker": "ALEC",
@@ -201,10 +201,10 @@
       "side": "long",
       "qty": 38.0,
       "avg_cost": 132.0,
-      "market_value": 3400.62,
-      "unrealized_pl": -1615.38,
-      "current_price": 89.49,
-      "unrealized_plpc": -32.2
+      "market_value": 3477.0,
+      "unrealized_pl": -1539.0,
+      "current_price": 91.5,
+      "unrealized_plpc": -30.68
     }
   ]
 }
