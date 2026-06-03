@@ -1,13 +1,13 @@
 {
   "date": "2026-06-03",
-  "portfolio_value": 85217.98,
-  "total_pl": -14782.020000000004,
-  "total_return_pct": -14.782020000000006,
-  "today_pl": -7868.57,
-  "today_return_pct": -8.453,
+  "portfolio_value": 84987.67,
+  "total_pl": -15012.330000000002,
+  "total_return_pct": -15.012330000000008,
+  "today_pl": -8098.88,
+  "today_return_pct": -8.7004,
   "long_positions": 17,
   "short_positions": 0,
-  "total_long_pl": -11143.66,
+  "total_long_pl": -11373.970000000001,
   "total_short_pl": 0.0,
   "n_alerts": 4,
   "n_drift_alerts": 3,
@@ -18,7 +18,7 @@
   "live_score": "2/5",
   "weeks_live": 0.8571428571428571,
   "cash": 10033.18,
-  "long_market_value": 75184.8,
+  "long_market_value": 74954.49,
   "spy_price": 753.45,
   "xbi_price": 129.6,
   "spy_inception_price": 754.78,
@@ -26,16 +26,6 @@
   "spy_return_pct": -0.17621028644106973,
   "xbi_return_pct": -4.569051213136488,
   "positions": [
-    {
-      "ticker": "LAB",
-      "side": "long",
-      "qty": 4587.0,
-      "avg_cost": 1.11,
-      "market_value": 5229.18,
-      "unrealized_pl": 137.61,
-      "current_price": 1.14,
-      "unrealized_plpc": 2.7
-    },
     {
       "ticker": "CGEM",
       "side": "long",
@@ -45,6 +35,16 @@
       "unrealized_pl": -124.68,
       "current_price": 15.21,
       "unrealized_plpc": -2.47
+    },
+    {
+      "ticker": "LAB",
+      "side": "long",
+      "qty": 4587.0,
+      "avg_cost": 1.11,
+      "market_value": 4953.96,
+      "unrealized_pl": -137.61,
+      "current_price": 1.08,
+      "unrealized_plpc": -2.7
     },
     {
       "ticker": "LRMR",
@@ -191,10 +191,10 @@
       "side": "long",
       "qty": 1497.0,
       "avg_cost": 3.39,
-      "market_value": 2455.08,
-      "unrealized_pl": -2619.75,
-      "current_price": 1.64,
-      "unrealized_plpc": -51.62
+      "market_value": 2499.99,
+      "unrealized_pl": -2574.84,
+      "current_price": 1.67,
+      "unrealized_plpc": -50.74
     }
   ]
 }
