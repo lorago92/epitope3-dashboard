@@ -1,13 +1,13 @@
 {
   "date": "2026-06-03",
-  "portfolio_value": 85266.95,
-  "total_pl": -14733.050000000003,
-  "total_return_pct": -14.733050000000002,
-  "today_pl": -7819.6,
-  "today_return_pct": -8.4004,
+  "portfolio_value": 85247.92,
+  "total_pl": -14752.080000000002,
+  "total_return_pct": -14.752080000000001,
+  "today_pl": -7838.63,
+  "today_return_pct": -8.4208,
   "long_positions": 17,
   "short_positions": 0,
-  "total_long_pl": -11094.689999999999,
+  "total_long_pl": -11113.72,
   "total_short_pl": 0.0,
   "n_alerts": 4,
   "n_drift_alerts": 3,
@@ -18,7 +18,7 @@
   "live_score": "2/5",
   "weeks_live": 0.8571428571428571,
   "cash": 10033.18,
-  "long_market_value": 75233.77,
+  "long_market_value": 75214.74,
   "spy_price": 753.45,
   "xbi_price": 129.6,
   "spy_inception_price": 754.78,
@@ -97,16 +97,6 @@
       "unrealized_plpc": -7.82
     },
     {
-      "ticker": "NBP",
-      "side": "long",
-      "qty": 2628.0,
-      "avg_cost": 1.9098,
-      "market_value": 4599.0,
-      "unrealized_pl": -420.05,
-      "current_price": 1.75,
-      "unrealized_plpc": -8.37
-    },
-    {
       "ticker": "ORGO",
       "side": "long",
       "qty": 1980.0,
@@ -121,10 +111,20 @@
       "side": "long",
       "qty": 718.0,
       "avg_cost": 7.07,
-      "market_value": 4498.27,
-      "unrealized_pl": -577.99,
-      "current_price": 6.265,
-      "unrealized_plpc": -11.39
+      "market_value": 4588.02,
+      "unrealized_pl": -488.24,
+      "current_price": 6.39,
+      "unrealized_plpc": -9.62
+    },
+    {
+      "ticker": "NBP",
+      "side": "long",
+      "qty": 2628.0,
+      "avg_cost": 1.9098,
+      "market_value": 4520.16,
+      "unrealized_pl": -498.89,
+      "current_price": 1.72,
+      "unrealized_plpc": -9.94
     },
     {
       "ticker": "NMRA",
@@ -191,10 +191,10 @@
       "side": "long",
       "qty": 1497.0,
       "avg_cost": 3.39,
-      "market_value": 2514.96,
-      "unrealized_pl": -2559.87,
-      "current_price": 1.68,
-      "unrealized_plpc": -50.44
+      "market_value": 2485.02,
+      "unrealized_pl": -2589.81,
+      "current_price": 1.66,
+      "unrealized_plpc": -51.03
     }
   ]
 }
