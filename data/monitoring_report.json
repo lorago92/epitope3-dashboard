@@ -1,13 +1,13 @@
 {
   "date": "2026-06-03",
-  "portfolio_value": 85297.02,
-  "total_pl": -14702.979999999996,
-  "total_return_pct": -14.702979999999998,
-  "today_pl": -7789.53,
-  "today_return_pct": -8.3681,
+  "portfolio_value": 85022.46,
+  "total_pl": -14977.539999999994,
+  "total_return_pct": -14.977539999999989,
+  "today_pl": -8064.09,
+  "today_return_pct": -8.663,
   "long_positions": 17,
   "short_positions": 0,
-  "total_long_pl": -11064.619999999999,
+  "total_long_pl": -11339.18,
   "total_short_pl": 0.0,
   "n_alerts": 4,
   "n_drift_alerts": 3,
@@ -18,7 +18,7 @@
   "live_score": "2/5",
   "weeks_live": 0.8571428571428571,
   "cash": 10033.18,
-  "long_market_value": 75263.84,
+  "long_market_value": 74989.28,
   "spy_price": 753.45,
   "xbi_price": 129.6,
   "spy_inception_price": 754.78,
@@ -77,6 +77,16 @@
       "unrealized_plpc": -7.07
     },
     {
+      "ticker": "LRMR",
+      "side": "long",
+      "qty": 1442.0,
+      "avg_cost": 3.52,
+      "market_value": 4672.08,
+      "unrealized_pl": -403.76,
+      "current_price": 3.24,
+      "unrealized_plpc": -7.95
+    },
+    {
       "ticker": "NBP",
       "side": "long",
       "qty": 2628.0,
@@ -85,16 +95,6 @@
       "unrealized_pl": -420.05,
       "current_price": 1.75,
       "unrealized_plpc": -8.37
-    },
-    {
-      "ticker": "LRMR",
-      "side": "long",
-      "qty": 1442.0,
-      "avg_cost": 3.52,
-      "market_value": 4614.4,
-      "unrealized_pl": -461.44,
-      "current_price": 3.2,
-      "unrealized_plpc": -9.09
     },
     {
       "ticker": "ORGO",
@@ -151,30 +151,20 @@
       "side": "long",
       "qty": 2060.0,
       "avg_cost": 2.48,
-      "market_value": 4264.2,
-      "unrealized_pl": -844.6,
-      "current_price": 2.07,
-      "unrealized_plpc": -16.53
+      "market_value": 4284.8,
+      "unrealized_pl": -824.0,
+      "current_price": 2.08,
+      "unrealized_plpc": -16.13
     },
     {
       "ticker": "ALEC",
       "side": "long",
       "qty": 2325.0,
       "avg_cost": 2.18,
-      "market_value": 4126.88,
-      "unrealized_pl": -941.62,
-      "current_price": 1.775,
-      "unrealized_plpc": -18.58
-    },
-    {
-      "ticker": "JBIO",
-      "side": "long",
-      "qty": 236.0,
-      "avg_cost": 21.52,
-      "market_value": 3988.4,
-      "unrealized_pl": -1090.32,
-      "current_price": 16.9,
-      "unrealized_plpc": -21.47
+      "market_value": 4138.5,
+      "unrealized_pl": -930.0,
+      "current_price": 1.78,
+      "unrealized_plpc": -18.35
     },
     {
       "ticker": "FBRX",
@@ -187,14 +177,24 @@
       "unrealized_plpc": -22.16
     },
     {
+      "ticker": "JBIO",
+      "side": "long",
+      "qty": 236.0,
+      "avg_cost": 21.52,
+      "market_value": 3894.0,
+      "unrealized_pl": -1184.72,
+      "current_price": 16.5,
+      "unrealized_plpc": -23.33
+    },
+    {
       "ticker": "ADCT",
       "side": "long",
       "qty": 1497.0,
       "avg_cost": 3.39,
-      "market_value": 2769.45,
-      "unrealized_pl": -2305.38,
-      "current_price": 1.85,
-      "unrealized_plpc": -45.43
+      "market_value": 2499.39,
+      "unrealized_pl": -2575.44,
+      "current_price": 1.6696,
+      "unrealized_plpc": -50.75
     }
   ]
 }
