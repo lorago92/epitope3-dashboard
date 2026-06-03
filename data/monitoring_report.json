@@ -1,13 +1,13 @@
 {
   "date": "2026-06-03",
-  "portfolio_value": 85152.82,
-  "total_pl": -14847.179999999993,
-  "total_return_pct": -14.847179999999993,
-  "today_pl": -7933.73,
-  "today_return_pct": -8.523,
+  "portfolio_value": 85297.02,
+  "total_pl": -14702.979999999996,
+  "total_return_pct": -14.702979999999998,
+  "today_pl": -7789.53,
+  "today_return_pct": -8.3681,
   "long_positions": 17,
   "short_positions": 0,
-  "total_long_pl": -11208.820000000002,
+  "total_long_pl": -11064.619999999999,
   "total_short_pl": 0.0,
   "n_alerts": 4,
   "n_drift_alerts": 3,
@@ -18,13 +18,13 @@
   "live_score": "2/5",
   "weeks_live": 0.8571428571428571,
   "cash": 10033.18,
-  "long_market_value": 75119.64,
-  "spy_price": 754.18,
-  "xbi_price": 129.85,
+  "long_market_value": 75263.84,
+  "spy_price": 753.45,
+  "xbi_price": 129.6,
   "spy_inception_price": 754.78,
   "xbi_inception_price": 135.805,
-  "spy_return_pct": -0.07949336230425041,
-  "xbi_return_pct": -4.384963734766767,
+  "spy_return_pct": -0.17621028644106973,
+  "xbi_return_pct": -4.569051213136488,
   "positions": [
     {
       "ticker": "LAB",
@@ -51,10 +51,10 @@
       "side": "long",
       "qty": 511.0,
       "avg_cost": 9.92,
-      "market_value": 4742.08,
-      "unrealized_pl": -327.04,
-      "current_price": 9.28,
-      "unrealized_plpc": -6.45
+      "market_value": 4798.29,
+      "unrealized_pl": -270.83,
+      "current_price": 9.39,
+      "unrealized_plpc": -5.34
     },
     {
       "ticker": "CSTL",
@@ -167,6 +167,16 @@
       "unrealized_plpc": -18.58
     },
     {
+      "ticker": "JBIO",
+      "side": "long",
+      "qty": 236.0,
+      "avg_cost": 21.52,
+      "market_value": 3988.4,
+      "unrealized_pl": -1090.32,
+      "current_price": 16.9,
+      "unrealized_plpc": -21.47
+    },
+    {
       "ticker": "FBRX",
       "side": "long",
       "qty": 238.0,
@@ -177,24 +187,14 @@
       "unrealized_plpc": -22.16
     },
     {
-      "ticker": "JBIO",
-      "side": "long",
-      "qty": 236.0,
-      "avg_cost": 21.52,
-      "market_value": 3825.56,
-      "unrealized_pl": -1253.16,
-      "current_price": 16.21,
-      "unrealized_plpc": -24.68
-    },
-    {
       "ticker": "ADCT",
       "side": "long",
       "qty": 1497.0,
       "avg_cost": 3.39,
-      "market_value": 2844.3,
-      "unrealized_pl": -2230.53,
-      "current_price": 1.9,
-      "unrealized_plpc": -43.95
+      "market_value": 2769.45,
+      "unrealized_pl": -2305.38,
+      "current_price": 1.85,
+      "unrealized_plpc": -45.43
     }
   ]
 }
