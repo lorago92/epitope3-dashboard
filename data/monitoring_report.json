@@ -19,11 +19,11 @@
   "weeks_live": 0.0,
   "cash": 6603.69,
   "long_market_value": 80943.25,
-  "spy_price": 756.43,
+  "spy_price": 756.25,
   "xbi_price": 133.39,
   "spy_inception_price": 756.515,
   "xbi_inception_price": 133.595,
-  "spy_return_pct": -0.01123573227232999,
+  "spy_return_pct": -0.03502904767255233,
   "xbi_return_pct": -0.1534488566188985,
   "positions": [
     {
