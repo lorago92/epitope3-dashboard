@@ -1,13 +1,13 @@
 {
-  "date": "2026-06-03",
-  "portfolio_value": 84741.87,
-  "total_pl": -15258.130000000005,
-  "total_return_pct": -15.258130000000003,
-  "today_pl": -8344.68,
-  "today_return_pct": -8.9644,
+  "date": "2026-06-04",
+  "portfolio_value": 88652.63,
+  "total_pl": -11347.369999999995,
+  "total_return_pct": -11.34736999999999,
+  "today_pl": -4433.92,
+  "today_return_pct": -4.7632,
   "long_positions": 17,
   "short_positions": 0,
-  "total_long_pl": -11619.769999999999,
+  "total_long_pl": -7709.01,
   "total_short_pl": 0.0,
   "n_alerts": 4,
   "n_drift_alerts": 3,
@@ -16,9 +16,9 @@
   "regime": "Mild Bull",
   "regime_score": -0.7506,
   "live_score": "2/5",
-  "weeks_live": 0.8571428571428571,
+  "weeks_live": 1.0,
   "cash": 10033.18,
-  "long_market_value": 74708.69,
+  "long_market_value": 78619.45000000001,
   "spy_price": 753.45,
   "xbi_price": 129.6,
   "spy_inception_price": 754.78,
@@ -27,54 +27,74 @@
   "xbi_return_pct": -4.569051213136488,
   "positions": [
     {
+      "ticker": "CSTL",
+      "side": "long",
+      "qty": 231.0,
+      "avg_cost": 21.92,
+      "market_value": 6380.22,
+      "unrealized_pl": 1316.7,
+      "current_price": 27.62,
+      "unrealized_plpc": 26.0
+    },
+    {
       "ticker": "CGEM",
       "side": "long",
       "qty": 324.0,
       "avg_cost": 15.5948,
-      "market_value": 4928.04,
-      "unrealized_pl": -124.68,
-      "current_price": 15.21,
-      "unrealized_plpc": -2.47
+      "market_value": 5252.04,
+      "unrealized_pl": 199.32,
+      "current_price": 16.21,
+      "unrealized_plpc": 3.94
+    },
+    {
+      "ticker": "ORGO",
+      "side": "long",
+      "qty": 1980.0,
+      "avg_cost": 2.57,
+      "market_value": 5207.4,
+      "unrealized_pl": 118.8,
+      "current_price": 2.63,
+      "unrealized_plpc": 2.33
+    },
+    {
+      "ticker": "AUTL",
+      "side": "long",
+      "qty": 2824.0,
+      "avg_cost": 1.79,
+      "market_value": 5054.96,
+      "unrealized_pl": 0.0,
+      "current_price": 1.79,
+      "unrealized_plpc": 0.0
+    },
+    {
+      "ticker": "IPSC",
+      "side": "long",
+      "qty": 2060.0,
+      "avg_cost": 2.48,
+      "market_value": 4882.2,
+      "unrealized_pl": -226.6,
+      "current_price": 2.37,
+      "unrealized_plpc": -4.44
     },
     {
       "ticker": "LAB",
       "side": "long",
       "qty": 4587.0,
       "avg_cost": 1.11,
-      "market_value": 4906.71,
-      "unrealized_pl": -184.86,
-      "current_price": 1.0697,
-      "unrealized_plpc": -3.63
+      "market_value": 4816.35,
+      "unrealized_pl": -275.22,
+      "current_price": 1.05,
+      "unrealized_plpc": -5.41
     },
     {
       "ticker": "LRMR",
       "side": "long",
       "qty": 1442.0,
       "avg_cost": 3.52,
-      "market_value": 4816.28,
-      "unrealized_pl": -259.56,
-      "current_price": 3.34,
-      "unrealized_plpc": -5.11
-    },
-    {
-      "ticker": "MGTX",
-      "side": "long",
-      "qty": 511.0,
-      "avg_cost": 9.92,
-      "market_value": 4798.29,
-      "unrealized_pl": -270.83,
-      "current_price": 9.39,
-      "unrealized_plpc": -5.34
-    },
-    {
-      "ticker": "CSTL",
-      "side": "long",
-      "qty": 231.0,
-      "avg_cost": 21.92,
-      "market_value": 4710.09,
-      "unrealized_pl": -353.43,
-      "current_price": 20.39,
-      "unrealized_plpc": -6.98
+      "market_value": 4787.44,
+      "unrealized_pl": -288.4,
+      "current_price": 3.32,
+      "unrealized_plpc": -5.68
     },
     {
       "ticker": "AARD",
@@ -87,16 +107,6 @@
       "unrealized_plpc": -7.07
     },
     {
-      "ticker": "AUTL",
-      "side": "long",
-      "qty": 2824.0,
-      "avg_cost": 1.79,
-      "market_value": 4659.6,
-      "unrealized_pl": -395.36,
-      "current_price": 1.65,
-      "unrealized_plpc": -7.82
-    },
-    {
       "ticker": "RNAC",
       "side": "long",
       "qty": 718.0,
@@ -107,34 +117,34 @@
       "unrealized_plpc": -9.62
     },
     {
-      "ticker": "NBP",
+      "ticker": "MGTX",
       "side": "long",
-      "qty": 2628.0,
-      "avg_cost": 1.9098,
-      "market_value": 4520.16,
-      "unrealized_pl": -498.89,
-      "current_price": 1.72,
-      "unrealized_plpc": -9.94
+      "qty": 511.0,
+      "avg_cost": 9.92,
+      "market_value": 4578.56,
+      "unrealized_pl": -490.56,
+      "current_price": 8.96,
+      "unrealized_plpc": -9.68
     },
     {
       "ticker": "NMRA",
       "side": "long",
       "qty": 2568.0,
       "avg_cost": 1.9569,
-      "market_value": 4391.28,
-      "unrealized_pl": -634.11,
-      "current_price": 1.71,
-      "unrealized_plpc": -12.62
+      "market_value": 4468.32,
+      "unrealized_pl": -557.07,
+      "current_price": 1.74,
+      "unrealized_plpc": -11.09
     },
     {
-      "ticker": "ORGO",
+      "ticker": "NBP",
       "side": "long",
-      "qty": 1980.0,
-      "avg_cost": 2.57,
-      "market_value": 4435.2,
-      "unrealized_pl": -653.4,
-      "current_price": 2.24,
-      "unrealized_plpc": -12.84
+      "qty": 2628.0,
+      "avg_cost": 1.9098,
+      "market_value": 4415.04,
+      "unrealized_pl": -604.01,
+      "current_price": 1.68,
+      "unrealized_plpc": -12.03
     },
     {
       "ticker": "EVMN",
@@ -147,34 +157,24 @@
       "unrealized_plpc": -13.96
     },
     {
-      "ticker": "IPSC",
+      "ticker": "JBIO",
       "side": "long",
-      "qty": 2060.0,
-      "avg_cost": 2.48,
-      "market_value": 4284.8,
-      "unrealized_pl": -824.0,
-      "current_price": 2.08,
-      "unrealized_plpc": -16.13
+      "qty": 236.0,
+      "avg_cost": 21.52,
+      "market_value": 4259.8,
+      "unrealized_pl": -818.92,
+      "current_price": 18.05,
+      "unrealized_plpc": -16.12
     },
     {
       "ticker": "ALEC",
       "side": "long",
       "qty": 2325.0,
       "avg_cost": 2.18,
-      "market_value": 4138.5,
-      "unrealized_pl": -930.0,
-      "current_price": 1.78,
-      "unrealized_plpc": -18.35
-    },
-    {
-      "ticker": "JBIO",
-      "side": "long",
-      "qty": 236.0,
-      "avg_cost": 21.52,
-      "market_value": 3894.0,
-      "unrealized_pl": -1184.72,
-      "current_price": 16.5,
-      "unrealized_plpc": -23.33
+      "market_value": 4231.5,
+      "unrealized_pl": -837.0,
+      "current_price": 1.82,
+      "unrealized_plpc": -16.51
     },
     {
       "ticker": "FBRX",
@@ -191,10 +191,10 @@
       "side": "long",
       "qty": 1497.0,
       "avg_cost": 3.39,
-      "market_value": 2574.84,
-      "unrealized_pl": -2499.99,
-      "current_price": 1.72,
-      "unrealized_plpc": -49.26
+      "market_value": 2634.72,
+      "unrealized_pl": -2440.11,
+      "current_price": 1.76,
+      "unrealized_plpc": -48.08
     }
   ]
 }
