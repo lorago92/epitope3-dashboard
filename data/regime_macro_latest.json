@@ -1,59 +1,59 @@
 {
-  "date": "2026-05-28",
-  "regime": "Mild Bull",
-  "composite_score": -0.7506,
-  "hmm_state": 0,
-  "position_gate": 0.5,
-  "position_scale_soft": 0.5,
+  "date": "2026-06-04",
+  "regime": "Strong Bull",
+  "composite_score": -0.6135,
+  "hmm_state": 2,
+  "position_gate": 1.0,
+  "position_scale_soft": 1.0,
   "position_scale_passthru": 0.0,
   "pca_explained_variance": [
-    0.4787,
+    0.4783,
     0.1886,
     0.0989
   ],
   "hmm_converged": true,
   "method": "macro_pca_hmm",
-  "pc6_value": -0.1695,
-  "pc6_gate": 0.5,
+  "pc6_value": 0.3186,
+  "pc6_gate": 1.0,
   "state_profiles": {
     "0": {
       "regime": "Mild Bull",
       "gate": 1.0,
-      "hist_pct": 0.2708,
-      "z1_mean": -0.2386,
-      "z2_mean": -0.3593,
-      "z3_mean": 0.1492,
-      "spy_mean_daily_ret": 0.002416
+      "hist_pct": 0.2368,
+      "z1_mean": -0.2167,
+      "z2_mean": -0.3855,
+      "z3_mean": -0.0588,
+      "spy_mean_daily_ret": 0.002145
     },
     "1": {
       "regime": "Bear",
       "gate": 0.0,
-      "hist_pct": 0.1909,
-      "z1_mean": 0.5761,
-      "z2_mean": 0.4633,
-      "z3_mean": -0.1337,
-      "spy_mean_daily_ret": -0.004351
+      "hist_pct": 0.1851,
+      "z1_mean": 0.2257,
+      "z2_mean": 0.5803,
+      "z3_mean": -0.1433,
+      "spy_mean_daily_ret": -0.002363
     },
     "2": {
       "regime": "Strong Bull",
       "gate": 1.0,
-      "hist_pct": 0.3296,
-      "z1_mean": -0.4268,
-      "z2_mean": 0.1153,
-      "z3_mean": -0.0824,
-      "spy_mean_daily_ret": 0.00277
+      "hist_pct": 0.3164,
+      "z1_mean": -0.3643,
+      "z2_mean": 0.0883,
+      "z3_mean": -0.0673,
+      "spy_mean_daily_ret": 0.002622
     },
     "3": {
       "regime": "Neutral",
       "gate": 0.5,
-      "hist_pct": 0.2087,
-      "z1_mean": 0.4419,
-      "z2_mean": -0.1319,
-      "z3_mean": 0.0539,
-      "spy_mean_daily_ret": -0.001529
+      "hist_pct": 0.2616,
+      "z1_mean": 0.4736,
+      "z2_mean": -0.1687,
+      "z3_mean": 0.2393,
+      "spy_mean_daily_ret": -0.001844
     }
   },
-  "z1_mixed_s": -0.5793,
-  "z2_rates_s": -0.6916,
-  "z3_inflation_s": 0.7098
+  "z1_mixed_s": -0.4749,
+  "z2_rates_s": -0.0946,
+  "z3_inflation_s": 0.0967
 }
